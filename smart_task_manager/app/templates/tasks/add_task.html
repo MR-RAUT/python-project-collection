@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% block title %}Manage Task{% endblock %}
+
+{% block content %}
+<style>
+/* Dashboard style for Add/Edit Task */
+body {
+    background-color: #f5f6fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 220px;
+    background-color: #2f3640;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar h2 {
+    color: #00a8ff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sidebar a {
+    color: white;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #00a8ff;
+    color: white;
+}
+
+/* Main content */
+.main-content {
+    flex-grow: 1;
+    padding: 30px;
+}
+
+/* Card */
+.task-card {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 25px 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.task-card:hover {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+/* Headers */
+.task-card h3 {
+    color: #2f3640;
+    margin-bottom: 15px;
+}
+
+/* Priority badges */
+.badge-low {
+    background-color: #2ecc71;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
+
+.badge-medium {
+    background-color: #f39c12;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
+
+.badge-high {
+    background-color: #e74c3c;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
+
+/* Form inside card */
+.task-card form .form-control, .task-card form .form-select {
+    margin-bottom: 15px;
+    border-radius: 10px;
+    height: 45px;
+    padding-left: 15px;
+}
+
+/* Submit button */
+.btn-save {
+    background-color: #00a8ff;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    padding: 12px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn-save:hover {
+    background-color: #0097e6;
+}
+</style>
+
+<div class="dashboard-container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h2>Task Manager</h2>
+        <a href="{{ url_for('tasks.dashboard') }}">Dashboard</a>
+        <a href="{{ url_for('tasks.add_task') }}">Add Task</a>
+        <a href="{{ url_for('auth.logout') }}">Logout</a>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="task-card">
+            <h3>{{ 'Edit Task' if form.title.data else 'Add New Task' }}</h3>
+
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category, message in messages %}
+                        <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                            {{ message }}
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+
+            <form method="POST">
+                {{ form.hidden_tag() }}
+
+                <div class="mb-3">
+                    {{ form.title.label(class="form-label") }}
+                    {{ form.title(class="form-control", placeholder="Enter task title") }}
+                    {% if form.title.errors %}
+                        <small class="text-danger">{{ form.title.errors[0] }}</small>
+                    {% endif %}
+                </div>
+
+                <div class="mb-3">
+                    {{ form.description.label(class="form-label") }}
+                    {{ form.description(class="form-control", placeholder="Task description", rows="3") }}
+                </div>
+
+                <div class="mb-3">
+                    {{ form.due_date.label(class="form-label") }}
+                    {{ form.due_date(class="form-control", type="date") }}
+                </div>
+
+                <div class="mb-3">
+                    {{ form.priority.label(class="form-label") }}
+                    {{ form.priority(class="form-select") }}
+                    <span id="priorityBadge" class="badge badge-{{ form.priority.data|lower }}">{{ form.priority.data }}</span>
+                </div>
+
+                <button type="submit" class="btn btn-save">{{ form.submit.label }}</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+// Update badge color dynamically
+const prioritySelect = document.querySelector('select[name="priority"]');
+const badge = document.getElementById('priorityBadge');
+
+prioritySelect.addEventListener('change', function() {
+    badge.textContent = this.value;
+    badge.className = 'badge badge-' + this.value.toLowerCase();
+});
+</script>
+{% endblock %}

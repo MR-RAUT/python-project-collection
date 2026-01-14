@@ -1,0 +1,207 @@
+{% extends "base.html" %}
+{% set show_toast = true %}
+{% set is_auth_page = false %}
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<style>
+/* Dashboard Advanced Style */
+body {
+    background: #f5f6fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.dashboard-header h2 {
+    color: #2f3640;
+    font-weight: 700;
+}
+
+.dashboard-header .btn-add {
+    background-color: #00a8ff;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.dashboard-header .btn-add:hover {
+    background-color: #0097e6;
+}
+
+/* Grid for task cards */
+.task-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 20px;
+}
+
+/* Task Card */
+.task-card {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    position: relative;
+    transition: 0.3s;
+}
+
+.task-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+}
+
+.task-card h4 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.task-card p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Badges */
+.badge-priority-low {
+    background-color: #2ecc71;
+}
+
+.badge-priority-medium {
+    background-color: #f39c12;
+}
+
+.badge-priority-high {
+    background-color: #e74c3c;
+}
+
+.badge-status-pending {
+    background-color: #f1c40f;
+}
+
+.badge-status-completed {
+    background-color: #27ae60;
+}
+
+/* Card actions */
+.task-actions {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.task-actions .btn {
+    margin-left: 5px;
+    border-radius: 8px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+
+.task-actions .btn i {
+    margin-right: 0;
+}
+
+/* Search & Filters */
+.filters {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.filters input,
+.filters select {
+    border-radius: 10px;
+    height: 40px;
+    padding-left: 12px;
+    font-size: 14px;
+    flex: 1;
+}
+</style>
+
+<div class="dashboard-header">
+    <h2>Dashboard</h2>
+    <a href="{{ url_for('tasks.add_task') }}" class="btn btn-add">
+        <i class="bi bi-plus-circle"></i> Add New Task
+    </a>
+</div>
+
+<!-- Filters -->
+<div class="filters">
+    <input type="text" id="searchInput" placeholder="Search by title...">
+    <select id="filterPriority">
+        <option value="">All Priorities</option>
+        <option value="High">High</option>
+        <option value="Medium">Medium</option>
+        <option value="Low">Low</option>
+    </select>
+    <select id="filterStatus">
+        <option value="">All Status</option>
+        <option value="Pending">Pending</option>
+        <option value="Completed">Completed</option>
+    </select>
+</div>
+
+<!-- Tasks Grid -->
+<div class="task-grid" id="tasksGrid">
+    {% for task in tasks %}
+    <div class="task-card" data-title="{{ task.title }}" data-priority="{{ task.priority }}" data-status="{{ task.status }}">
+        <div class="task-actions">
+            {% if task.status != 'Completed' %}
+            <a href="{{ url_for('tasks.complete_task', task_id=task.id) }}" class="btn btn-success btn-sm" title="Complete">
+                <i class="bi bi-check-circle"></i>
+            </a>
+            {% endif %}
+            <a href="{{ url_for('tasks.edit_task', task_id=task.id) }}" class="btn btn-primary btn-sm" title="Edit">
+                <i class="bi bi-pencil-square"></i>
+            </a>
+            <a href="{{ url_for('tasks.delete_task', task_id=task.id) }}" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')" title="Delete">
+                <i class="bi bi-trash"></i>
+            </a>
+        </div>
+        <h4>{{ task.title }}</h4>
+        <p>{{ task.description or 'No description' }}</p>
+        <span class="badge badge-priority-{{ task.priority|lower }}">{{ task.priority }}</span>
+        <span class="badge badge-status-{{ task.status|lower }}">{{ task.status }}</span>
+        <p class="mt-2" style="font-size:12px; color:#888;">Created: {{ task.created_at.strftime('%d-%m-%Y %H:%M') }}</p>
+    </div>
+    {% endfor %}
+</div>
+
+<script>
+// JS: search & filter tasks
+const searchInput = document.getElementById('searchInput');
+const filterPriority = document.getElementById('filterPriority');
+const filterStatus = document.getElementById('filterStatus');
+const taskCards = document.querySelectorAll('.task-card');
+
+function filterTasks() {
+    const searchText = searchInput.value.toLowerCase();
+    const priorityFilter = filterPriority.value;
+    const statusFilter = filterStatus.value;
+
+    taskCards.forEach(card => {
+        const title = card.dataset.title.toLowerCase();
+        const priority = card.dataset.priority;
+        const status = card.dataset.status;
+
+        let show = true;
+        if (searchText && !title.includes(searchText)) show = false;
+        if (priorityFilter && priority !== priorityFilter) show = false;
+        if (statusFilter && status !== statusFilter) show = false;
+
+        card.style.display = show ? 'block' : 'none';
+    });
+}
+
+searchInput.addEventListener('input', filterTasks);
+filterPriority.addEventListener('change', filterTasks);
+filterStatus.addEventListener('change', filterTasks);
+</script>
+{% endblock %}
