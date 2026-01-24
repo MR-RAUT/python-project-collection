@@ -1,0 +1,5 @@
+agent,packages_delivered,total_distance,efficiency,status
+A1,6,164.66,27.44,
+A2,0,0.0,0,
+A3,2,25.4,12.7,best_agent
+A4,0,0.0,0,
