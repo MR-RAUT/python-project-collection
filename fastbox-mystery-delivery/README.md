@@ -29,7 +29,7 @@ FastBox operates with:
 
 ## 📁 Project Structure
 
-
+```bash
 fastbox-mystery-delivery/
 │
 ├── src/
@@ -61,7 +61,7 @@ fastbox-mystery-delivery/
 ├── test_runner.py            # Automated test runner
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
