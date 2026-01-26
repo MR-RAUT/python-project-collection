@@ -1,254 +1,272 @@
-# 📦 FastBox – Mystery Delivery System (Python)
+# AI Desktop Assistant – NovaDhi
 
-A logistics simulation system that models one day of package delivery operations for a fictional company called **FastBox**.
-The system assigns packages to delivery agents based on proximity, simulates deliveries, measures efficiency, and generates detailed reports.
+NovaDhi is a **Windows-based intelligent desktop assistant** designed to enhance developer productivity and everyday computing through seamless AI interaction. It combines a floating toolbar interface, conversational AI, voice control, and real-time screen text analysis to deliver fast and accurate assistance for programming, MCQs, theory questions, and general tasks.
 
-This project is designed to be closely resembling real-world backend logic.
-
----
-
-## 🧠 Problem Overview
-
-FastBox operates with:
-
-* Multiple **warehouses**
-* Multiple **delivery agents**
-* Multiple **packages**
-
-### Objectives:
-
-1. Read and parse JSON input data
-2. Assign each package to the nearest agent (Euclidean distance)
-3. Simulate delivery routes
-4. Calculate total distance traveled per agent
-5. Identify the most efficient agent
-6. Generate reports in JSON and CSV formats
-7. Validate correctness using multiple test cases
+Unlike traditional chat applications, NovaDhi lives directly on your desktop and can be summoned instantly using global hotkeys. It also includes a stealth protection system that automatically hides or prevents capture during screen sharing or online meetings.
 
 ---
 
-## 📁 Project Structure
+## 📌 Key Highlights
 
-```bash
-fastbox-mystery-delivery/
+* Floating always-on-top toolbar
+* AI-powered chat and reasoning using Groq LLMs
+* Voice-based continuous listening
+* OCR-based screen text extraction and solving
+* Automatic stealth / no-capture protection
+* Window snapping and smart positioning
+* Optional ChatGPT Desktop integration
 
+---
+
+## 🖼 Screenshots
+
+Add your screenshots inside a folder named `screenshots/` and reference them here:
+
+```
+/screenshots
+   toolbar.png
+   chat.png
+   analyzer.png
+```
+
+Example:
+
+### Floating Toolbar
+![Toolbar](screenshots/toolbar.png)
+
+### Chat Window
+![Chat](screenshots/chat.png)
+
+### Screen Analyzer
+![Analyzer](screenshots/analyzer.png)
+---
+
+## 🎯 Why NovaDhi?
+
+NovaDhi was built to solve a common problem: switching between browsers, IDEs, and chat tools interrupts focus. NovaDhi keeps AI assistance directly on your screen, available instantly, and optimized for technical problem-solving.
+
+It is especially useful for:
+
+* Students preparing for exams
+* Developers solving coding problems
+* Interview preparation
+* MCQ practice
+* Quick theory lookups
+
+---
+
+## 🧩 Features in Detail
+
+### 1. Floating Toolbar
+
+* Always visible on top of other windows
+* Can collapse into a bubble
+* Drag anywhere on screen
+
+### 2. AI Chat Window
+
+* Type or speak queries
+* Supports coding, MCQs, and theory
+* Displays structured answers
+
+### 3. Voice Assistant
+
+* Continuous listening mode
+* Uses Google Speech Recognition
+* Hands-free interaction
+
+### 4. Screen Analyzer
+
+* Captures current screen
+* Extracts text using OCR
+* Builds prompt and sends to AI
+* Displays solved output
+
+### 5. Answer Window
+
+* Rich formatted output
+* Code blocks with copy button
+* Scrollable and resizable
+
+### 6. Global Hotkeys
+
+* Toggle assistant from anywhere
+
+### 7. Stealth Mode
+
+* Detects screen sharing or meeting apps
+* Hides assistant windows
+* Prevents screen capture using Windows API
+
+### 8. Window Snap Manager
+
+* Move windows using Ctrl + Arrow Keys
+* Grid-based positioning
+
+### 9. ChatGPT Desktop Integration (Optional)
+
+* Launches ChatGPT Desktop
+* Positions window below toolbar
+
+---
+
+## 🏗 Project Structure
+
+```
+AI_DESKTOP_ASSISTANT/
 │
-
+├── assets/
+│   ├── icons/
+│   ├── styles.qss
+│   └── scrollbar.qss
+│
 ├── src/
-
-│   ├── __init__.py
-
-│   ├── data_loader.py        # JSON loader
-
-│   ├── distance.py           # Euclidean distance logic
-
-│   ├── assignment.py         # Package → Agent assignment
-
-│   ├── simulation.py         # Delivery simulation (+ delay)
-
-│   └── report.py             # JSON & CSV report generator
-
+│   ├── app/
+│   │   └── main.py
+│   │
+│   ├── core/
+│   │   ├── screen_analyzer_engine.py
+│   │   ├── hotkeys.py
+│   │   ├── windows_api.py
+│   │   ├── window_snap.py
+│   │   └── stealth.py
+│   │
+│   ├── services/
+│   │   ├── ai.py
+│   │   ├── speech.py
+│   │   └── chatgpt.py
+│   │
+│   ├── ui/
+│   │   ├── toolbar.py
+│   │   ├── chat.py
+│   │   ├── analyzer.py
+│   │   └── answer.py
+│   │
+│   └── utils/
+│       └── helpers.py
 │
-
-├── data/
-
-│   └── data.json             # Original assignment input
-
-│
-
-├── Test_cases/
-
-│   ├── test_case_1.json
-
-│   ├── ...
-
-│   └── test_case_10.json     # Scenario-based test cases
-
-│
-
-├── output/
-
-│   ├── report.json
-
-│   ├── top_agent.csv
-
-│   └── test_case_report/
-
-│       ├── test_case_1_report.csv
-
-│       ├── ...
-
-│       └── test_case_10_report.csv
-
-│
-
-├── base_case.json            # Sanity / demo input
-
-├── main.py                   # Main execution file
-
-├── test_runner.py            # Automated test runner
-
+├── main.py
 ├── requirements.txt
-
 └── README.md
 ```
 
 ---
 
-## 🔄 System Flow
+## 🛠 Tech Stack
 
-JSON Input
-   ↓
-Data Loading
-   ↓
-Agent–Package Assignment
-   ↓
-Delivery Simulation
-   ↓
-Efficiency Calculation
-   ↓
-Report Generation (JSON / CSV)
-   ↓
-Test Case Validation
+* Python 3.10+
+* PyQt5
+* Groq API (Llama models)
+* SpeechRecognition
+* PyAudio
+* pytesseract
+* Pillow
+* keyboard
+* pywin32
+* psutil
 
 ---
 
-## 📐 Distance Calculation
+## ⚙️ Installation Guide
 
-Euclidean distance is used to determine proximity:
+### Step 1: Clone Repository
 
-distance = √((x₂ − x₁)² + (y₂ − y₁)²)
+```
+git clone https://github.com/your-username/NovaDhi-AI-Desktop-Assistant.git
+cd NovaDhi-AI-Desktop-Assistant
+```
 
-This is used for:
+### Step 2: Create Virtual Environment
 
-* Agent → Warehouse
-* Warehouse → Destination
+```
+python -m venv venv
+venv\Scripts\activate
+```
 
----
+### Step 3: Install Dependencies
 
-## 📊 Efficiency Metric
+```
+pip install -r requirements.txt
+```
 
-Each agent’s efficiency is calculated as:
+### Step 4: Install Tesseract OCR
 
-efficiency = total_distance / packages_delivered
+Download from official site:
+[https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 
+Update path in:
 
-* Lower efficiency = better performance
-* Agents with zero deliveries are excluded
-* This avoids unfair comparison based only on volume
-
----
-
-## 🏆 Best Agent Selection
-
-The **best agent** is defined as:
-
-> The agent who delivers packages using the least distance per delivery.
-
-This reflects real-world logistics optimization.
-
----
-
-## 🧪 Testing Strategy
-
-### ✔ Scenario-Based Testing
-
-* All test cases are stored as JSON files
-* Each file represents a full day of operations
-* Tests validate that **all packages are delivered**
-
-### ✔ Automated Validation
-
-* PASS / FAIL based on expected vs delivered packages
-* No manual verification required
-
-### ✔ CSV Report Per Test Case
-
-For each test case, a CSV report is generated:
-
-output/test_case_report/test_case_X_report.csv
-
-Each CSV includes:
-
-* Agent ID
-* Packages delivered
-* Total distance
-* Efficiency
-* Best agent status
+```
+src/core/screen_analyzer_engine.py
+```
 
 ---
 
-## 🔄 Data Normalization
+## 🔑 Configure Groq API Key
 
-Some test cases use legacy or alternative JSON formats.
+Open file:
 
-To ensure stability:
+```
+src/services/ai.py
+```
 
-* Input data is normalized inside the test runner
-* Core business logic remains unchanged
-* Prevents schema-related runtime errors
+Replace:
 
-This mirrors real-world systems that accept data from multiple sources.
+```
+API_KEY = "ENTER YOUR GROQ API KEY IN HERE"
+```
 
----
+With:
 
-## ⭐ Bonus Features Implemented
-
-* ✅ **Random delivery delays** (optional, realistic simulation)
-* ✅ **Mid-day agent joining** (data-driven, no logic change)
-* ✅ **CSV export for analytics**
-* ✅ **Best agent tagging**
-* ✅ **Multiple input schemas supported**
+```
+API_KEY = "your_api_key_here"
+```
 
 ---
 
-## ▶️ How to Run
+## ▶️ Running the Application
 
-### Run base case / demo:
-
-```bash
+```
 python main.py
 ```
 
-### Run all test cases:
+---
 
-```bash
-python test_runner.py
-```
+## ⌨️ Keyboard Shortcuts
+
+| Action           | Shortcut           |
+| ---------------- | ------------------ |
+| Toggle Assistant | Ctrl + Alt + Space |
+| Snap Window      | Ctrl + Arrow Keys  |
 
 ---
 
-## 📦 Outputs
+## 🔒 Security & Privacy
 
-* `output/report.json` – Main summary report
-* `output/top_agent.csv` – Agent performance summary
-* `output/test_case_report/*.csv` – Per-test analytics
-
----
-
-## 🎤 Explanation (Short)
-
-> “I designed the system with modular components and scenario-based testing. Inputs are normalized for consistency, deliveries are simulated realistically, and performance metrics are exported for analysis. The system is data-driven and easy to extend.”
+* API key stored locally
+* No user data saved
+* No cloud logging
+* Stealth protection against capture
 
 ---
 
-## ✅ Key Engineering Highlights
+## 🚀 Future Improvements
 
-* Modular design
-* Clean separation of concerns
-* Data-driven logic
-* Scalable testing approach
-* Real-world efficiency metric
-* Clear debugging and validation flow
-
----
-
-## 🏁 Final Notes
-
-* All requirements from the assignment are fully implemented
-* Bonus features are included without breaking core logic
-* The project is production-style, testable, and interview-ready
+* Plugin architecture
+* Customizable hotkeys
+* Dark/Light themes
+* Offline local LLM support
+* Webcam vision input
 
 ---
 
+## 👨‍💻 Author
 
+Mahesh Raut
+B.Tech Artificial Intelligence & Data Science
+
+---
+
+## ⭐ Support
+
+If you find this project useful, please consider giving it a star on GitHub.
