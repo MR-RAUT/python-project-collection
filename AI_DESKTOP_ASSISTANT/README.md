@@ -20,15 +20,6 @@ Unlike traditional chat applications, NovaDhi lives directly on your desktop and
 
 ## 🖼 Screenshots
 
-Add your screenshots inside a folder named `screenshots/` and reference them here:
-
-```
-/screenshots
-   toolbar.png
-   chat.png
-   analyzer.png
-```
-
 Example:
 
 ### Floating Toolbar
@@ -144,7 +135,12 @@ AI_DESKTOP_ASSISTANT/
 │   │
 │   └── utils/
 │       └── helpers.py
-│
+│ 
+├── screenshots/
+│   ├── toolbar.png
+│   ├── chat.png
+│   └── analyzer.png
+│ 
 ├── main.py
 ├── requirements.txt
 └── README.md
