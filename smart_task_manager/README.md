@@ -1,9 +1,3 @@
-Excellent 👍
-You shared a **high-quality README template** for NovaDhi — I’ll now create a **same-level, professional, ATS-friendly, portfolio-ready README** for your:
-
-# 🧠 Smart Task Manager (Flask Project)
-
-You can directly copy–paste this into your `README.md`.
 
 ---
 
