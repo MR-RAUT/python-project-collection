@@ -29,39 +29,69 @@ FastBox operates with:
 
 ## 📁 Project Structure
 
-
+```bash
 fastbox-mystery-delivery/
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py        # JSON loader
-│   ├── distance.py           # Euclidean distance logic
-│   ├── assignment.py         # Package → Agent assignment
-│   ├── simulation.py         # Delivery simulation (+ delay)
-│   └── report.py             # JSON & CSV report generator
-│
-├── data/
-│   └── data.json             # Original assignment input
-│
-├── Test_cases/
-│   ├── test_case_1.json
-│   ├── ...
-│   └── test_case_10.json     # Scenario-based test cases
-│
-├── output/
-│   ├── report.json
-│   ├── top_agent.csv
-│   └── test_case_report/
-│       ├── test_case_1_report.csv
-│       ├── ...
-│       └── test_case_10_report.csv
-│
-├── base_case.json            # Sanity / demo input
-├── main.py                   # Main execution file
-├── test_runner.py            # Automated test runner
-├── requirements.txt
-└── README.md
 
+│
+
+├── src/
+
+│   ├── __init__.py
+
+│   ├── data_loader.py        # JSON loader
+
+│   ├── distance.py           # Euclidean distance logic
+
+│   ├── assignment.py         # Package → Agent assignment
+
+│   ├── simulation.py         # Delivery simulation (+ delay)
+
+│   └── report.py             # JSON & CSV report generator
+
+│
+
+├── data/
+
+│   └── data.json             # Original assignment input
+
+│
+
+├── Test_cases/
+
+│   ├── test_case_1.json
+
+│   ├── ...
+
+│   └── test_case_10.json     # Scenario-based test cases
+
+│
+
+├── output/
+
+│   ├── report.json
+
+│   ├── top_agent.csv
+
+│   └── test_case_report/
+
+│       ├── test_case_1_report.csv
+
+│       ├── ...
+
+│       └── test_case_10_report.csv
+
+│
+
+├── base_case.json            # Sanity / demo input
+
+├── main.py                   # Main execution file
+
+├── test_runner.py            # Automated test runner
+
+├── requirements.txt
+
+└── README.md
+```
 
 ---
 

@@ -1,0 +1,219 @@
+/* =========================================================
+   CORE CONTAINERS
+========================================================= */
+
+#toolbarContainer,
+#popupContainer {
+    background: rgba(30, 30, 30, 150);
+    border-radius: 18px;
+}
+
+
+/* =========================================================
+   BUTTONS
+========================================================= */
+
+/* Primary (Black) Buttons */
+#blackBtn {
+    background-color: #202020;
+    color: white;
+    padding: 0 14px;
+    border-radius: 12px;
+    font-weight: 600;
+    line-height: 34px;
+}
+
+#blackBtn:hover {
+    background-color: #404040;
+}
+
+/* Exit / Destructive Button */
+#redBtn {
+    background-color: #ff3b30;
+    color: white;
+    padding: 0 14px;
+    border-radius: 12px;
+    font-weight: 600;
+    line-height: 34px;
+}
+
+#redBtn:hover {
+    background-color: #ff574c;
+}
+
+/* Small / Tiny Buttons */
+#tinyBtn {
+    background-color: #202020;
+    color: white;
+    border-radius: 6px;
+}
+
+#tinyBtn:hover {
+    background-color: #303030;
+}
+
+
+/* =========================================================
+   INPUTS & TEXT AREAS
+========================================================= */
+
+/* Single-line Input */
+#overlayInput {
+    background: rgba(30, 30, 30, 150);
+    color: white;
+    border-radius: 12px;
+    padding-left: 12px;
+    font-size: 16px;
+}
+
+/* Clear button attached to input */
+#clearInside {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#clearInside:hover {
+    background-color: #404040;
+}
+
+/* Plain text labels */
+#answerText,
+#questionText {
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    border: none;
+}
+
+
+/* =========================================================
+   ANALYZER / OVERLAY
+========================================================= */
+
+#overlayBg {
+    background: rgba(30, 30, 30, 150);
+}
+
+#analyzerTitle {
+    font-size: 18px;
+    color: white;
+}
+
+#overlayClose {
+    background: #c0392b;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 8px;
+}
+
+#overlayText {
+    background: rgba(255, 255, 255, 0.05);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+/* =========================================================
+   ANSWER VIEW (QTextBrowser)
+========================================================= */
+
+#QTextBrowser {
+    font-size: 16px;
+    color: white;
+    background: transparent;
+    border: none;
+}
+
+/* Headings */
+#QTextBrowser h1,
+#QTextBrowser h2,
+#QTextBrowser h3 {
+    color: #00ffcc;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Lists */
+#QTextBrowser ul {
+    margin-left: 18px;
+}
+
+/* Inline code */
+#QTextBrowser code {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    padding: 4px 6px;
+    font-family: Consolas, monospace;
+}
+
+/* Code blocks */
+#QTextBrowser pre {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Consolas, monospace;
+}
+
+
+/* =========================================================
+   CODE BLOCK UI
+========================================================= */
+
+#copyCodeBtn {
+    background: transparent;
+    color: #4ce272;
+    border: none;
+    font-size: 12px;
+    padding: 3px 6px;
+}
+
+#copyCodeBtn:hover {
+    color: white;
+}
+
+#codeBlockBox {
+    background-color: #1e1e1e;
+    border: 1px solid #444;
+    padding: 12px;
+    border-radius: 8px;
+    color: #e6e6e6;
+    font-family: "JetBrains Mono", "Fira Code", Consolas, monospace;
+    font-size: 18px;
+}
+
+
+/* =========================================================
+   SCROLL AREAS
+========================================================= */
+
+#answerScrollArea {
+    background: transparent;
+    border: none;
+}
+
+
+/* =========================================================
+   RESIZE HANDLE
+========================================================= */
+
+#resizeHandleButton {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    border-radius: 11px;
+    font-size: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 0;
+}
+
+#resizeHandleButton:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+/* =========================================================
+   BUBBLE ICON (PERFECT CIRCLE)
+========================================================= */
+
+QLabel#bubbleIcon {
+    background-color: rgba(0, 0, 0, 1));
+    border-radius: 22px;   /* half of 44 */
+}

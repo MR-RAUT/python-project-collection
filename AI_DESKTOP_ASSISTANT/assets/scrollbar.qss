@@ -1,0 +1,68 @@
+/* =========================================================
+   SCROLLBAR STYLE – CLEAN & MODERN (CHATGPT-LIKE)
+   Applies to all QScrollArea / QTextEdit / QTextBrowser
+========================================================= */
+
+/* ===================== VERTICAL ===================== */
+
+QScrollBar:vertical {
+    width: 8px;
+    background: transparent;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #6e6e6e;      /* neutral grey */
+    border-radius: 4px;
+    min-height: 30px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #9e9e9e;      /* softer hover */
+}
+
+/* Remove arrows */
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {
+    height: 0;
+    background: transparent;
+    border: none;
+}
+
+/* Track */
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: transparent;
+}
+
+/* ===================== HORIZONTAL ===================== */
+
+QScrollBar:horizontal {
+    height: 8px;
+    background: transparent;
+    margin: 2px 4px;
+    border-radius: 4px;
+}
+
+QScrollBar::handle:horizontal {
+    background-color: #6e6e6e;
+    border-radius: 4px;
+    min-width: 30px;
+}
+
+QScrollBar::handle:horizontal:hover {
+    background-color: #9e9e9e;
+}
+
+QScrollBar::add-line:horizontal,
+QScrollBar::sub-line:horizontal {
+    width: 0;
+    background: transparent;
+    border: none;
+}
+
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:horizontal {
+    background: transparent;
+}
