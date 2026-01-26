@@ -168,8 +168,8 @@ AI_DESKTOP_ASSISTANT/
 ### Step 1: Clone Repository
 
 ```
-git clone https://github.com/your-username/NovaDhi-AI-Desktop-Assistant.git
-cd NovaDhi-AI-Desktop-Assistant
+git clone https://github.com/MR-RAUT/python-project-collection.git
+cd python-project-collection/AI_DESKTOP_ASSISTANT
 ```
 
 ### Step 2: Create Virtual Environment
