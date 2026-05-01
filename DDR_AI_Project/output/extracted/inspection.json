@@ -1,0 +1,3161 @@
+{
+  "file name" : "inspection.pdf",
+  "number of pages" : 23,
+  "author" : "Rohit Upadhyay",
+  "title" : null,
+  "creation date" : "D:20221214052804+00'00'",
+  "modification date" : "D:20221214052804Z",
+  "kids" : [ {
+    "type" : "header",
+    "id" : 71,
+    "page number" : 1,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 23,
+      "page number" : 1,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile1.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 72,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 59.544, 738.683, 189.949, 753.766 ],
+    "heading level" : 1,
+    "font" : "Arial,Bold",
+    "font size" : 16.08,
+    "text color" : "[0.122]",
+    "content" : "Inspection Form"
+  }, {
+    "type" : "heading",
+    "id" : 73,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 499.39, 718.557, 535.687, 725.986 ],
+    "heading level" : 5,
+    "font" : "Arial,Bold",
+    "font size" : 7.92,
+    "text color" : "[0.31, 0.486, 0.302]",
+    "content" : "Complete"
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 1,
+    "bounding box" : [ 65.784, 694.588, 532.584, 706.755 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Score 85.71% Flagged items 1 Actions 0"
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 667.913, 145.122, 677.368 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Customer Name"
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 641.993, 101.459, 651.448 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Mobile:"
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 613.173, 94.814, 622.628 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Email:"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 568.533, 107.767, 577.988 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Address:"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 523.863, 183.088, 533.318 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Property Age (In years):"
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 1,
+    "bounding box" : [ 65.784, 495.303, 468.096, 506.784 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Property Type: Flat"
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 466.983, 532.524, 479.185 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Floors: 11"
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 1,
+    "bounding box" : [ 64.584, 358.223, 531.221, 449.884 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Previous Structural audit done No Previous Repair work done No Inspection Date and Time: 27.09.2022 14:28 IST Inspected By: Krushna & Mahesh"
+  }, {
+    "type" : "header",
+    "id" : 113,
+    "page number" : 2,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 24,
+      "page number" : 2,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile2.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 116,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 64.584, 721.943, 529.412, 736.544 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.122]",
+    "content" : "Flagged items 1 flagged"
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 2,
+    "bounding box" : [ 64.584, 670.553, 209.984, 705.315 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Checklists / Inspection Checklists Checklist:"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 2,
+    "bounding box" : [ 453.07, 673.426, 466.711, 684.434 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[0.0]",
+    "content" : "WC"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 2,
+    "bounding box" : [ 434.33, 646.546, 484.921, 657.554 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[0.0]",
+    "content" : "External wall"
+  }, {
+    "type" : "header",
+    "id" : 121,
+    "page number" : 3,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 25,
+      "page number" : 3,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile3.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 711.833, 121.083, 721.288 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.122]",
+    "content" : "Site Details"
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 3,
+    "bounding box" : [ 395.93, 664.588, 533.05, 700.995 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Hall, Bedroom, Kitchen, Master Bedroom, Parking Area, Common bathroom"
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 676.313, 181.131, 685.768 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Impacted Areas/Rooms"
+  }, {
+    "type" : "heading",
+    "id" : 124,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 64.584, 631.827, 165.513, 644.884 ],
+    "heading level" : 2,
+    "font" : "Arial,Bold",
+    "font size" : 13.92,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area"
+  }, {
+    "type" : "heading",
+    "id" : 125,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 64.584, 602.69, 161.34, 613.946 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 1"
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 3,
+    "bounding box" : [ 66.024, 575.973, 530.208, 588.175 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description Hall Skirting level Dampness"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 551.253, 199.326, 560.708 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 140,
+    "page number" : 3,
+    "bounding box" : [ 64.5, 480.5, 123.65, 539.65 ],
+    "source" : "inspection_images/imageFile4.png"
+  }, {
+    "type" : "image",
+    "id" : 141,
+    "page number" : 3,
+    "bounding box" : [ 143.85, 478.65, 204.85, 539.65 ],
+    "source" : "inspection_images/imageFile5.png"
+  }, {
+    "type" : "image",
+    "id" : 142,
+    "page number" : 3,
+    "bounding box" : [ 223.25, 478.6, 284.3, 539.65 ],
+    "source" : "inspection_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "id" : 143,
+    "page number" : 3,
+    "bounding box" : [ 302.6, 478.6, 363.65, 539.65 ],
+    "source" : "inspection_images/imageFile7.png"
+  }, {
+    "type" : "image",
+    "id" : 144,
+    "page number" : 3,
+    "bounding box" : [ 382.75, 478.6, 443.8, 539.65 ],
+    "source" : "inspection_images/imageFile8.png"
+  }, {
+    "type" : "image",
+    "id" : 145,
+    "page number" : 3,
+    "bounding box" : [ 461.35, 478.65, 522.35, 539.65 ],
+    "source" : "inspection_images/imageFile9.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 468.904, 489.314, 478.464 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 1 Photo 2 Photo 3 Photo 4 Photo 5 Photo 6"
+  }, {
+    "type" : "image",
+    "id" : 146,
+    "page number" : 3,
+    "bounding box" : [ 64.5, 392.3, 125.55, 453.35 ],
+    "source" : "inspection_images/imageFile10.png"
+  }, {
+    "type" : "list",
+    "id" : 129,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 64.584, 234.834, 334.925, 392.284 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 64.584, 382.724, 91.228, 392.284 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 7",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 52,
+        "page number" : 3,
+        "bounding box" : [ 64.584, 351.503, 184.035, 360.958 ],
+        "font" : "Arial,Bold",
+        "font size" : 10.08,
+        "text color" : "[0.341, 0.118, 0.259]",
+        "content" : "Positive side Description"
+      }, {
+        "type" : "paragraph",
+        "id" : 53,
+        "page number" : 3,
+        "bounding box" : [ 421.61, 357.538, 531.099, 369.705 ],
+        "font" : "Tahoma",
+        "font size" : 10.08,
+        "text color" : "[0.431]",
+        "content" : "Common Bathroom tile"
+      }, {
+        "type" : "paragraph",
+        "id" : 54,
+        "page number" : 3,
+        "bounding box" : [ 64.584, 316.943, 527.614, 350.505 ],
+        "font" : "Arial,Bold",
+        "font size" : 10.08,
+        "text color" : "[0.341, 0.118, 0.259]",
+        "content" : "hollowness Positive side photographs"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 64.584, 234.834, 334.925, 244.394 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 8 Photo 9 Photo 10 Photo 11",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 147,
+    "page number" : 3,
+    "bounding box" : [ 64.5, 244.45, 125.55, 305.5 ],
+    "source" : "inspection_images/imageFile11.png"
+  }, {
+    "type" : "image",
+    "id" : 148,
+    "page number" : 3,
+    "bounding box" : [ 143.85, 244.5, 204.85, 305.5 ],
+    "source" : "inspection_images/imageFile12.png"
+  }, {
+    "type" : "image",
+    "id" : 149,
+    "page number" : 3,
+    "bounding box" : [ 223.25, 244.45, 284.3, 305.5 ],
+    "source" : "inspection_images/imageFile13.png"
+  }, {
+    "type" : "image",
+    "id" : 150,
+    "page number" : 3,
+    "bounding box" : [ 302.6, 244.45, 363.65, 305.5 ],
+    "source" : "inspection_images/imageFile14.png"
+  }, {
+    "type" : "heading",
+    "id" : 130,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 64.584, 204.17, 161.34, 215.426 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 2"
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 3,
+    "bounding box" : [ 425.21, 180.848, 528.599, 193.015 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Bedroom Skirting level"
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 174.813, 191.981, 184.268 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description"
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 3,
+    "bounding box" : [ 64.584, 140.493, 527.643, 174.775 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Dampness Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 157,
+    "page number" : 3,
+    "bounding box" : [ 64.5, 69.05, 124.5, 129.05 ],
+    "source" : "inspection_images/imageFile15.png"
+  }, {
+    "type" : "image",
+    "id" : 159,
+    "page number" : 3,
+    "bounding box" : [ 143.85, 69.05, 203.85, 129.05 ],
+    "source" : "inspection_images/imageFile16.png"
+  }, {
+    "type" : "image",
+    "id" : 161,
+    "page number" : 3,
+    "bounding box" : [ 223.25, 69.05, 283.25, 129.05 ],
+    "source" : "inspection_images/imageFile17.png"
+  }, {
+    "type" : "header",
+    "id" : 163,
+    "page number" : 4,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 26,
+      "page number" : 4,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile18.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 4,
+    "bounding box" : [ 421.61, 743.578, 531.099, 755.745 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Common Bathroom tile"
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 737.543, 184.035, 746.998 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Positive side Description"
+  }, {
+    "type" : "heading",
+    "id" : 166,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 64.584, 704.633, 527.614, 736.785 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "hollowness Positive side photographs"
+  }, {
+    "type" : "image",
+    "id" : 183,
+    "page number" : 4,
+    "bounding box" : [ 64.5, 631.2, 125.5, 692.2 ],
+    "source" : "inspection_images/imageFile19.png"
+  }, {
+    "type" : "image",
+    "id" : 184,
+    "page number" : 4,
+    "bounding box" : [ 143.85, 631.2, 204.85, 692.2 ],
+    "source" : "inspection_images/imageFile20.png"
+  }, {
+    "type" : "image",
+    "id" : 185,
+    "page number" : 4,
+    "bounding box" : [ 223.25, 631.2, 284.25, 692.2 ],
+    "source" : "inspection_images/imageFile21.png"
+  }, {
+    "type" : "image",
+    "id" : 186,
+    "page number" : 4,
+    "bounding box" : [ 302.6, 631.2, 363.6, 692.2 ],
+    "source" : "inspection_images/imageFile22.png"
+  }, {
+    "type" : "image",
+    "id" : 187,
+    "page number" : 4,
+    "bounding box" : [ 382.75, 631.2, 443.75, 692.2 ],
+    "source" : "inspection_images/imageFile23.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 621.574, 415.134, 631.134 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 15 Photo 16 Photo 17 Photo 18 Photo 19"
+  }, {
+    "type" : "heading",
+    "id" : 168,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 64.584, 591.41, 161.34, 602.666 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 3"
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 4,
+    "bounding box" : [ 73.224, 557.973, 530.299, 574.735 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Negative side Description Master bedroom Skirting level"
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 527.943, 530.523, 563.215 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Dampness Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 188,
+    "page number" : 4,
+    "bounding box" : [ 64.5, 457.25, 123.65, 516.4 ],
+    "source" : "inspection_images/imageFile24.png"
+  }, {
+    "type" : "image",
+    "id" : 189,
+    "page number" : 4,
+    "bounding box" : [ 143.85, 455.6, 204.65, 516.4 ],
+    "source" : "inspection_images/imageFile25.png"
+  }, {
+    "type" : "image",
+    "id" : 190,
+    "page number" : 4,
+    "bounding box" : [ 223.25, 455.6, 284.05, 516.4 ],
+    "source" : "inspection_images/imageFile26.png"
+  }, {
+    "type" : "image",
+    "id" : 191,
+    "page number" : 4,
+    "bounding box" : [ 302.6, 455.35, 363.65, 516.4 ],
+    "source" : "inspection_images/imageFile27.png"
+  }, {
+    "type" : "image",
+    "id" : 192,
+    "page number" : 4,
+    "bounding box" : [ 382.75, 455.35, 443.8, 516.4 ],
+    "source" : "inspection_images/imageFile28.png"
+  }, {
+    "type" : "image",
+    "id" : 193,
+    "page number" : 4,
+    "bounding box" : [ 461.35, 455.4, 522.35, 516.4 ],
+    "source" : "inspection_images/imageFile29.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 445.604, 493.634, 455.164 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 20 Photo 21 Photo 22 Photo 23 Photo 24 Photo 25"
+  }, {
+    "type" : "paragraph",
+    "id" : 172,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 418.243, 520.902, 430.445 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Positive side Description MB Bathroom tile hollowness"
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 389.683, 189.456, 399.138 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Positive side photographs"
+  }, {
+    "type" : "image",
+    "id" : 194,
+    "page number" : 4,
+    "bounding box" : [ 64.5, 319.25, 123.65, 378.4 ],
+    "source" : "inspection_images/imageFile30.png"
+  }, {
+    "type" : "image",
+    "id" : 195,
+    "page number" : 4,
+    "bounding box" : [ 143.85, 317.4, 204.85, 378.4 ],
+    "source" : "inspection_images/imageFile31.png"
+  }, {
+    "type" : "image",
+    "id" : 196,
+    "page number" : 4,
+    "bounding box" : [ 223.25, 319.25, 282.4, 378.4 ],
+    "source" : "inspection_images/imageFile32.png"
+  }, {
+    "type" : "image",
+    "id" : 197,
+    "page number" : 4,
+    "bounding box" : [ 302.6, 319.25, 361.75, 378.4 ],
+    "source" : "inspection_images/imageFile33.png"
+  }, {
+    "type" : "image",
+    "id" : 198,
+    "page number" : 4,
+    "bounding box" : [ 382.75, 319.25, 441.9, 378.4 ],
+    "source" : "inspection_images/imageFile34.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 174,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 307.584, 415.134, 317.144 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 26 Photo 27 Photo 28 Photo 29 Photo 30"
+  }, {
+    "type" : "heading",
+    "id" : 175,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 64.584, 277.15, 161.34, 288.406 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 4"
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 4,
+    "bounding box" : [ 433.85, 253.828, 531.007, 265.995 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Kitchen Skirting level"
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 247.793, 191.981, 257.248 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description"
+  }, {
+    "type" : "heading",
+    "id" : 178,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 64.584, 213.473, 527.883, 247.515 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Dampness Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 199,
+    "page number" : 4,
+    "bounding box" : [ 64.5, 141.2, 125.3, 202.0 ],
+    "source" : "inspection_images/imageFile35.png"
+  }, {
+    "type" : "image",
+    "id" : 200,
+    "page number" : 4,
+    "bounding box" : [ 143.85, 141.2, 204.65, 202.0 ],
+    "source" : "inspection_images/imageFile36.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 4,
+    "bounding box" : [ 64.584, 131.374, 176.235, 140.934 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 31 Photo 32"
+  }, {
+    "type" : "header",
+    "id" : 209,
+    "page number" : 5,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 27,
+      "page number" : 5,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile37.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 210,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 64.584, 713.993, 519.37, 749.505 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Positive side Description Master bedroom bathroom Positive side photographs"
+  }, {
+    "type" : "image",
+    "id" : 225,
+    "page number" : 5,
+    "bounding box" : [ 143.85, 641.45, 204.85, 702.45 ],
+    "source" : "inspection_images/imageFile38.png"
+  }, {
+    "type" : "image",
+    "id" : 224,
+    "page number" : 5,
+    "bounding box" : [ 64.5, 643.3, 123.65, 702.45 ],
+    "source" : "inspection_images/imageFile39.png"
+  }, {
+    "type" : "image",
+    "id" : 226,
+    "page number" : 5,
+    "bounding box" : [ 223.25, 643.3, 282.4, 702.45 ],
+    "source" : "inspection_images/imageFile40.png"
+  }, {
+    "type" : "image",
+    "id" : 227,
+    "page number" : 5,
+    "bounding box" : [ 302.6, 643.3, 361.75, 702.45 ],
+    "source" : "inspection_images/imageFile41.png"
+  }, {
+    "type" : "image",
+    "id" : 228,
+    "page number" : 5,
+    "bounding box" : [ 382.75, 643.3, 441.9, 702.45 ],
+    "source" : "inspection_images/imageFile42.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 631.914, 415.134, 641.474 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 33 Photo 34 Photo 35 Photo 36 Photo 37"
+  }, {
+    "type" : "heading",
+    "id" : 212,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 64.584, 601.25, 161.34, 612.506 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 5"
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 550.533, 524.048, 585.055 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description Master bedroom wall damness Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 229,
+    "page number" : 5,
+    "bounding box" : [ 64.5, 477.05, 125.55, 538.1 ],
+    "source" : "inspection_images/imageFile43.png"
+  }, {
+    "type" : "image",
+    "id" : 230,
+    "page number" : 5,
+    "bounding box" : [ 143.85, 477.3, 204.65, 538.1 ],
+    "source" : "inspection_images/imageFile44.png"
+  }, {
+    "type" : "image",
+    "id" : 231,
+    "page number" : 5,
+    "bounding box" : [ 223.25, 477.05, 284.3, 538.1 ],
+    "source" : "inspection_images/imageFile45.png"
+  }, {
+    "type" : "image",
+    "id" : 232,
+    "page number" : 5,
+    "bounding box" : [ 302.6, 478.95, 361.75, 538.1 ],
+    "source" : "inspection_images/imageFile46.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 467.464, 334.925, 477.024 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 38 Photo 39 Photo 40 Photo 41"
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 5,
+    "bounding box" : [ 66.504, 435.763, 531.35, 452.525 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Positive side Description External wall crack and Duct"
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 404.323, 531.538, 435.725 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Issue Positive side photographs"
+  }, {
+    "type" : "image",
+    "id" : 233,
+    "page number" : 5,
+    "bounding box" : [ 64.5, 332.6, 123.5, 391.6 ],
+    "source" : "inspection_images/imageFile47.png"
+  }, {
+    "type" : "image",
+    "id" : 234,
+    "page number" : 5,
+    "bounding box" : [ 143.85, 332.6, 202.85, 391.6 ],
+    "source" : "inspection_images/imageFile48.png"
+  }, {
+    "type" : "image",
+    "id" : 235,
+    "page number" : 5,
+    "bounding box" : [ 223.25, 332.6, 282.25, 391.6 ],
+    "source" : "inspection_images/imageFile49.png"
+  }, {
+    "type" : "image",
+    "id" : 236,
+    "page number" : 5,
+    "bounding box" : [ 302.6, 332.45, 361.75, 391.6 ],
+    "source" : "inspection_images/imageFile50.png"
+  }, {
+    "type" : "image",
+    "id" : 237,
+    "page number" : 5,
+    "bounding box" : [ 382.75, 332.45, 441.9, 391.6 ],
+    "source" : "inspection_images/imageFile51.png"
+  }, {
+    "type" : "image",
+    "id" : 238,
+    "page number" : 5,
+    "bounding box" : [ 461.35, 332.45, 520.5, 391.6 ],
+    "source" : "inspection_images/imageFile52.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 217,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 322.704, 493.634, 332.264 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 42 Photo 43 Photo 44 Photo 45 Photo 46 Photo 47"
+  }, {
+    "type" : "image",
+    "id" : 239,
+    "page number" : 5,
+    "bounding box" : [ 64.5, 246.95, 123.65, 306.1 ],
+    "source" : "inspection_images/imageFile53.png"
+  }, {
+    "type" : "list",
+    "id" : 218,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 64.584, 237.234, 95.789, 246.794 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 247,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 64.584, 237.234, 95.789, 246.794 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 48",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 219,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 64.584, 205.61, 161.34, 216.866 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 6"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 5,
+    "bounding box" : [ 64.584, 153.933, 528.393, 188.935 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description Parking Area seepage Negative side photographs"
+  }, {
+    "type" : "header",
+    "id" : 246,
+    "page number" : 6,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 28,
+      "page number" : 6,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile54.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 258,
+    "page number" : 6,
+    "bounding box" : [ 143.85, 693.45, 202.992, 751.7 ],
+    "source" : "inspection_images/imageFile55.png"
+  }, {
+    "type" : "image",
+    "id" : 259,
+    "page number" : 6,
+    "bounding box" : [ 223.25, 693.45, 282.392, 751.7 ],
+    "source" : "inspection_images/imageFile56.png"
+  }, {
+    "type" : "image",
+    "id" : 260,
+    "page number" : 6,
+    "bounding box" : [ 302.6, 693.45, 361.742, 751.7 ],
+    "source" : "inspection_images/imageFile57.png"
+  }, {
+    "type" : "image",
+    "id" : 257,
+    "page number" : 6,
+    "bounding box" : [ 64.5, 692.96, 124.0, 751.605 ],
+    "source" : "inspection_images/imageFile58.png"
+  }, {
+    "type" : "list",
+    "id" : 247,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 64.584, 679.194, 334.925, 688.754 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 218,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 64.584, 679.194, 334.925, 688.754 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 49 Photo 50 Photo 51 Photo 52",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 6,
+    "bounding box" : [ 386.06, 638.188, 528.225, 662.595 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Common Bathroom tile hollowness and plumbing issue"
+  }, {
+    "type" : "paragraph",
+    "id" : 248,
+    "page number" : 6,
+    "bounding box" : [ 64.584, 642.233, 183.315, 651.688 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Positive side Description"
+  }, {
+    "type" : "heading",
+    "id" : 250,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 64.584, 610.053, 189.456, 619.508 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Positive side photographs"
+  }, {
+    "type" : "image",
+    "id" : 265,
+    "page number" : 6,
+    "bounding box" : [ 143.85, 537.45, 204.85, 598.45 ],
+    "source" : "inspection_images/imageFile59.png"
+  }, {
+    "type" : "image",
+    "id" : 264,
+    "page number" : 6,
+    "bounding box" : [ 64.5, 539.3, 123.65, 598.45 ],
+    "source" : "inspection_images/imageFile60.png"
+  }, {
+    "type" : "image",
+    "id" : 266,
+    "page number" : 6,
+    "bounding box" : [ 223.25, 539.3, 282.4, 598.45 ],
+    "source" : "inspection_images/imageFile61.png"
+  }, {
+    "type" : "image",
+    "id" : 267,
+    "page number" : 6,
+    "bounding box" : [ 302.6, 539.3, 361.75, 598.45 ],
+    "source" : "inspection_images/imageFile62.png"
+  }, {
+    "type" : "image",
+    "id" : 268,
+    "page number" : 6,
+    "bounding box" : [ 382.75, 539.3, 441.9, 598.45 ],
+    "source" : "inspection_images/imageFile63.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 6,
+    "bounding box" : [ 64.584, 527.704, 415.134, 537.264 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Photo 53 Photo 54 Photo 55 Photo 56 Photo 57"
+  }, {
+    "type" : "heading",
+    "id" : 252,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 64.584, 497.06, 161.34, 508.316 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Impacted Area 7"
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 6,
+    "bounding box" : [ 405.05, 469.178, 530.342, 481.345 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.431]",
+    "content" : "Common Bathroom Ceiling"
+  }, {
+    "type" : "paragraph",
+    "id" : 253,
+    "page number" : 6,
+    "bounding box" : [ 65.784, 463.143, 193.181, 472.598 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Negative side Description"
+  }, {
+    "type" : "heading",
+    "id" : 255,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 64.584, 433.363, 530.208, 469.325 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Dampness Negative side photographs"
+  }, {
+    "type" : "image",
+    "id" : 275,
+    "page number" : 6,
+    "bounding box" : [ 64.5, 362.91, 123.55, 421.96 ],
+    "source" : "inspection_images/imageFile64.png"
+  }, {
+    "type" : "list",
+    "id" : 256,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 64.584, 202.414, 493.634, 360.104 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 64.584, 350.544, 95.789, 360.104 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 58",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 49,
+        "page number" : 6,
+        "bounding box" : [ 459.79, 356.578, 524.612, 368.745 ],
+        "font" : "Tahoma",
+        "font size" : 10.08,
+        "text color" : "[0.431]",
+        "content" : "outlet Leakage"
+      }, {
+        "type" : "paragraph",
+        "id" : 50,
+        "page number" : 6,
+        "bounding box" : [ 64.584, 314.543, 528.03, 331.305 ],
+        "font" : "Tahoma",
+        "font size" : 10.08,
+        "text color" : "[0.431]",
+        "content" : "Positive side Description Flat no 203 tile joint open and"
+      }, {
+        "type" : "paragraph",
+        "id" : 51,
+        "page number" : 6,
+        "bounding box" : [ 64.584, 284.753, 189.456, 294.208 ],
+        "font" : "Arial,Bold",
+        "font size" : 10.08,
+        "text color" : "[0.341, 0.118, 0.259]",
+        "content" : "Positive side photographs"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 64.584, 202.414, 493.634, 211.974 ],
+      "font" : "Tahoma",
+      "font size" : 7.92,
+      "text color" : "[0.431]",
+      "content" : "Photo 59 Photo 60 Photo 61 Photo 62 Photo 63 Photo 64",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 269,
+    "page number" : 6,
+    "bounding box" : [ 64.5, 212.5, 125.3, 273.3 ],
+    "source" : "inspection_images/imageFile65.png"
+  }, {
+    "type" : "image",
+    "id" : 270,
+    "page number" : 6,
+    "bounding box" : [ 143.85, 212.5, 204.65, 273.3 ],
+    "source" : "inspection_images/imageFile66.png"
+  }, {
+    "type" : "image",
+    "id" : 271,
+    "page number" : 6,
+    "bounding box" : [ 223.25, 212.25, 284.3, 273.3 ],
+    "source" : "inspection_images/imageFile67.png"
+  }, {
+    "type" : "image",
+    "id" : 272,
+    "page number" : 6,
+    "bounding box" : [ 302.6, 212.25, 363.65, 273.3 ],
+    "source" : "inspection_images/imageFile68.png"
+  }, {
+    "type" : "image",
+    "id" : 273,
+    "page number" : 6,
+    "bounding box" : [ 382.75, 212.25, 443.8, 273.3 ],
+    "source" : "inspection_images/imageFile69.png"
+  }, {
+    "type" : "image",
+    "id" : 274,
+    "page number" : 6,
+    "bounding box" : [ 461.35, 212.3, 522.35, 273.3 ],
+    "source" : "inspection_images/imageFile70.png"
+  }, {
+    "type" : "header",
+    "id" : 281,
+    "page number" : 7,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 29,
+      "page number" : 7,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile71.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 345,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 748.343, 525.836, 758.864 ],
+    "font" : "Tahoma",
+    "font size" : 7.92,
+    "text color" : "[0.431]",
+    "content" : "Checklists 1 flagged, 84.21%"
+  }, {
+    "type" : "heading",
+    "id" : 283,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 64.584, 718.737, 526.076, 733.184 ],
+    "heading level" : 2,
+    "font" : "Arial,Bold",
+    "font size" : 13.92,
+    "text color" : "[0.122]",
+    "content" : "Inspection Checklists 1 flagged, 84.21%"
+  }, {
+    "type" : "heading",
+    "id" : 348,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 65.544, 687.113, 467.911, 700.994 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Checklist: WC"
+  }, {
+    "type" : "paragraph",
+    "id" : 353,
+    "page number" : 7,
+    "bounding box" : [ 435.77, 662.626, 486.361, 673.634 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[0.0]",
+    "content" : "External wall"
+  }, {
+    "type" : "paragraph",
+    "id" : 284,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 633.833, 253.953, 643.288 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of leakage at adjacent walls"
+  }, {
+    "type" : "paragraph",
+    "id" : 285,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 605.253, 220.592, 614.708 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of leakage below WC"
+  }, {
+    "type" : "paragraph",
+    "id" : 286,
+    "page number" : 7,
+    "bounding box" : [ 65.784, 576.693, 475.842, 588.414 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Leakage during: All time"
+  }, {
+    "type" : "paragraph",
+    "id" : 290,
+    "page number" : 7,
+    "bounding box" : [ 65.784, 548.373, 468.166, 559.854 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Leakage due to concealed plumbing Yes"
+  }, {
+    "type" : "paragraph",
+    "id" : 295,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 507.783, 359.927, 529.238 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Leakage due to damage in Nahani trap/Brickbat coba under tile flooring"
+  }, {
+    "type" : "paragraph",
+    "id" : 297,
+    "page number" : 7,
+    "bounding box" : [ 452.83, 514.736, 466.966, 525.744 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[1.0]",
+    "content" : "Yes"
+  }, {
+    "type" : "heading",
+    "id" : 298,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 64.584, 476.66, 526.808, 488.544 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Positive Side Inputs For WC 100%"
+  }, {
+    "type" : "paragraph",
+    "id" : 299,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 447.283, 468.166, 458.524 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Gaps/Blackish dirt Observed in tile joints Yes"
+  }, {
+    "type" : "paragraph",
+    "id" : 304,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 418.723, 468.166, 430.204 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Gaps around Nahani Trap Joints Yes"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 390.403, 466.953, 401.644 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Tiles Broken/Loosed anywhere No"
+  }, {
+    "type" : "paragraph",
+    "id" : 315,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 350.303, 467.212, 376.424 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Loose Plumbing joints/rust around joints and edges (Flush Yes Tank/shower/angle cock/bibcock, washbasin, etc)"
+  }, {
+    "type" : "paragraph",
+    "id" : 347,
+    "page number" : 7,
+    "bounding box" : [ 440.09, 321.736, 478.923, 332.744 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[0.0]",
+    "content" : "Moderate"
+  }, {
+    "type" : "paragraph",
+    "id" : 317,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 321.983, 119.92, 331.438 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Type of tile"
+  }, {
+    "type" : "heading",
+    "id" : 318,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 64.584, 292.78, 527.558, 305.624 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Negative Side Inputs For External Wall 75%"
+  }, {
+    "type" : "paragraph",
+    "id" : 319,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 266.273, 242.361, 275.728 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of leakage at interior side"
+  }, {
+    "type" : "paragraph",
+    "id" : 320,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 237.473, 476.082, 248.954 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Leakage during: All time"
+  }, {
+    "type" : "paragraph",
+    "id" : 325,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 208.913, 468.166, 220.394 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Leakage due to concealed plumbing Yes"
+  }, {
+    "type" : "paragraph",
+    "id" : 330,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 180.333, 468.166, 191.814 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Internal WC/Bath/Balcony leakage observed Yes"
+  }, {
+    "type" : "heading",
+    "id" : 335,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 64.584, 148.73, 527.529, 161.574 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Positive Side Inputs for External Wall 100%"
+  }, {
+    "type" : "paragraph",
+    "id" : 336,
+    "page number" : 7,
+    "bounding box" : [ 65.544, 119.823, 477.999, 131.304 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Existing type of paint and manufacturer Not sure"
+  }, {
+    "type" : "paragraph",
+    "id" : 341,
+    "page number" : 7,
+    "bounding box" : [ 64.584, 87.984, 526.808, 100.828 ],
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Stuctural Condition of RCC Members 100%"
+  }, {
+    "type" : "header",
+    "id" : 357,
+    "page number" : 8,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 30,
+      "page number" : 8,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile72.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 358,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 749.303, 480.123, 760.784 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of cracks observed on RCC Column and Beam Moderate"
+  }, {
+    "type" : "paragraph",
+    "id" : 361,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 720.983, 468.616, 732.464 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of rust marks observed in RCC Beam and Column N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 366,
+    "page number" : 8,
+    "bounding box" : [ 64.584, 680.393, 355.046, 701.848 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of corrosion/spalling of concrete/exposed reinforcement observed in column/beams/roof slab ceiling"
+  }, {
+    "type" : "paragraph",
+    "id" : 368,
+    "page number" : 8,
+    "bounding box" : [ 452.11, 686.866, 467.176, 697.874 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[1.0]",
+    "content" : "N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 370,
+    "page number" : 8,
+    "bounding box" : [ 64.584, 652.073, 467.413, 663.794 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Expansion joints condition if any N/A"
+  }, {
+    "type" : "heading",
+    "id" : 371,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 64.584, 624.29, 527.529, 637.134 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Condition of External wall 100%"
+  }, {
+    "type" : "paragraph",
+    "id" : 372,
+    "page number" : 8,
+    "bounding box" : [ 64.584, 583.653, 360.82, 604.628 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Are there any major or minor cracks observed over external surface?"
+  }, {
+    "type" : "paragraph",
+    "id" : 374,
+    "page number" : 8,
+    "bounding box" : [ 64.584, 401.923, 478.203, 600.894 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Moderate Are the sealants applied on the window frame joints intact? N/A Condition of wall mounted AC Frames, holes, drain pipes over the wall. Are the external plumbing pipes cracked and leaked? If yes its condition. Are the openings around the pipes in external wall properly grouted? If not its condition. Condition of any vegetation growth, dish antennas fixed on parapet wall observed?"
+  }, {
+    "type" : "paragraph",
+    "id" : 377,
+    "page number" : 8,
+    "bounding box" : [ 452.11, 528.416, 467.176, 539.424 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[1.0]",
+    "content" : "N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 379,
+    "page number" : 8,
+    "bounding box" : [ 439.37, 487.856, 478.203, 498.864 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[0.0]",
+    "content" : "Moderate"
+  }, {
+    "type" : "paragraph",
+    "id" : 381,
+    "page number" : 8,
+    "bounding box" : [ 452.11, 447.276, 467.176, 458.284 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[1.0]",
+    "content" : "N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 383,
+    "page number" : 8,
+    "bounding box" : [ 452.11, 406.716, 467.176, 417.724 ],
+    "font" : "Tahoma",
+    "font size" : 9.12,
+    "text color" : "[1.0]",
+    "content" : "N/A"
+  }, {
+    "type" : "heading",
+    "id" : 384,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 64.584, 369.34, 527.529, 382.184 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Condition of Adhesion of old paint 100%"
+  }, {
+    "type" : "paragraph",
+    "id" : 385,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 340.463, 468.616, 352.424 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Chalking and flaking in paint film. N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 389,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 312.143, 480.123, 323.384 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Algae fungus and Moss observed on external wall? Moderate"
+  }, {
+    "type" : "paragraph",
+    "id" : 394,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 283.553, 468.616, 295.514 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Bird droppings condition observed on external wall and Chajja N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 398,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 254.993, 468.616, 266.474 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of corrosion on metal rods and MS window grills N/A"
+  }, {
+    "type" : "heading",
+    "id" : 403,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 64.824, 223.63, 242.062, 234.886 ],
+    "heading level" : 3,
+    "font" : "Arial,Bold",
+    "font size" : 12.0,
+    "text color" : "[0.122]",
+    "content" : "Substrate condition of Plaster"
+  }, {
+    "type" : "paragraph",
+    "id" : 405,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 194.733, 468.616, 205.974 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Patchwork plaster required? if yes its condition? N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 408,
+    "page number" : 8,
+    "bounding box" : [ 65.544, 165.933, 468.616, 177.414 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Entire replaster required? if yes its condition? N/A"
+  }, {
+    "type" : "paragraph",
+    "id" : 414,
+    "page number" : 8,
+    "bounding box" : [ 64.584, 126.093, 467.413, 151.974 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of separation cracks observed at beam-column N/A junction"
+  }, {
+    "type" : "paragraph",
+    "id" : 416,
+    "page number" : 8,
+    "bounding box" : [ 65.784, 97.747, 469.096, 108.988 ],
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Condition of leakage observed from overhead water tank N/A"
+  }, {
+    "type" : "image",
+    "id" : 433,
+    "page number" : 9,
+    "bounding box" : [ 30.25, 778.65, 107.228, 836.4 ],
+    "source" : "inspection_images/imageFile73.png"
+  }, {
+    "type" : "image",
+    "id" : 434,
+    "page number" : 9,
+    "bounding box" : [ 13.35, 763.5, 581.09, 765.45 ],
+    "source" : "inspection_images/imageFile74.png"
+  }, {
+    "type" : "heading",
+    "id" : 429,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 65.784, 732.503, 469.096, 743.744 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Loose plaster/hollow sond on external surfaces?if observed, N/A"
+  }, {
+    "type" : "header",
+    "id" : 435,
+    "page number" : 10,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 31,
+      "page number" : 10,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile75.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 436,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 236.74, 736.497, 358.091, 749.554 ],
+    "heading level" : 2,
+    "font" : "Arial,Bold",
+    "font size" : 13.92,
+    "text color" : "[0.114, 0.106, 0.0667]",
+    "content" : "SUMMARY TABLE"
+  }, {
+    "type" : "table",
+    "id" : 437,
+    "level" : "2",
+    "page number" : 10,
+    "bounding box" : [ 52.824, 427.8, 542.38, 711.07 ],
+    "number of rows" : 8,
+    "number of columns" : 4,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 685.39, 93.648, 710.59 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 10,
+          "bounding box" : [ 58.584, 686.633, 83.764, 708.088 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Point No"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 685.39, 280.199, 710.59 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 10,
+          "bounding box" : [ 116.45, 699.113, 230.217, 708.568 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Impacted area (-ve side)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 685.39, 322.92, 710.59 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 10,
+          "bounding box" : [ 286.44, 686.633, 311.62, 708.088 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Point No"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 685.39, 541.66, 710.59 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 10,
+          "bounding box" : [ 363.5, 699.113, 477.305, 708.568 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Exposed area (+ve side)"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 648.192, 93.648, 685.39 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 12,
+          "page number" : 10,
+          "bounding box" : [ 70.344, 665.753, 75.948, 675.208 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 648.192, 280.199, 685.39 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 13,
+          "page number" : 10,
+          "bounding box" : [ 97.488, 652.073, 275.34, 673.048 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed dampness at the skirting level of Hall of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 648.192, 322.92, 685.39 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 16,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 660.953, 311.481, 670.408 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "1.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 648.192, 541.66, 685.39 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 17,
+          "page number" : 10,
+          "bounding box" : [ 345.74, 648.953, 523.43, 670.408 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 613.13, 93.648, 648.192 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 10,
+          "bounding box" : [ 73.224, 620.133, 78.828, 629.588 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "2"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 613.13, 280.199, 648.192 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 10,
+          "bounding box" : [ 96.528, 624.933, 276.788, 645.928 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 613.13, 322.92, 648.192 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 24,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 624.933, 311.481, 634.388 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "2.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 613.13, 541.66, 648.192 ],
+        "row number" : 3,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 25,
+          "page number" : 10,
+          "bounding box" : [ 343.1, 624.933, 520.79, 645.928 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 576.167, 93.648, 613.13 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 28,
+          "page number" : 10,
+          "bounding box" : [ 72.984, 585.093, 78.588, 594.548 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "3"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 576.167, 280.199, 613.13 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 29,
+          "page number" : 10,
+          "bounding box" : [ 97.488, 589.893, 275.34, 610.868 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed dampness at the skirting level of Master Bedroom of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 576.167, 322.92, 613.13 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 32,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 590.133, 311.481, 599.588 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "3.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 576.167, 541.66, 613.13 ],
+        "row number" : 4,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 33,
+          "page number" : 10,
+          "bounding box" : [ 329.18, 589.893, 540.296, 610.868 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 539.18, 93.648, 576.167 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 36,
+          "page number" : 10,
+          "bounding box" : [ 70.344, 552.213, 75.948, 561.668 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "4"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 539.18, 280.199, 576.167 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 37,
+          "page number" : 10,
+          "bounding box" : [ 97.488, 552.933, 275.34, 573.908 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed dampness at the skirting level of Kitchen of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 539.18, 322.92, 576.167 ],
+        "row number" : 5,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 40,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 552.933, 311.481, 562.388 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "4.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 539.18, 541.66, 576.167 ],
+        "row number" : 5,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 41,
+          "page number" : 10,
+          "bounding box" : [ 329.18, 552.933, 540.296, 573.908 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 502.22, 93.648, 539.18 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 44,
+          "page number" : 10,
+          "bounding box" : [ 70.344, 515.223, 75.948, 524.678 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "5"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 502.22, 280.199, 539.18 ],
+        "row number" : 6,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 45,
+          "page number" : 10,
+          "bounding box" : [ 97.728, 504.423, 275.62, 536.918 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 502.22, 322.92, 539.18 ],
+        "row number" : 6,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 48,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 515.943, 311.481, 525.398 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "5.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 502.22, 541.66, 539.18 ],
+        "row number" : 6,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 49,
+          "page number" : 10,
+          "bounding box" : [ 327.96, 515.703, 541.565, 536.918 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 465.022, 93.648, 502.22 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 52,
+          "page number" : 10,
+          "bounding box" : [ 70.344, 478.023, 75.948, 487.478 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "6"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 465.022, 280.199, 502.22 ],
+        "row number" : 7,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 53,
+          "page number" : 10,
+          "bounding box" : [ 98.208, 478.983, 275.207, 499.958 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed leakage at the Parking ceiling below Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 465.022, 322.92, 502.22 ],
+        "row number" : 7,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 56,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 478.983, 311.481, 488.438 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "6.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 465.022, 541.66, 502.22 ],
+        "row number" : 7,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 57,
+          "page number" : 10,
+          "bounding box" : [ 330.86, 478.743, 538.809, 499.718 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 53.544, 428.28, 93.648, 465.022 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 60,
+          "page number" : 10,
+          "bounding box" : [ 70.344, 441.043, 75.948, 450.498 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "7"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 93.648, 428.28, 280.199, 465.022 ],
+        "row number" : 8,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 61,
+          "page number" : 10,
+          "bounding box" : [ 94.848, 441.763, 278.082, 462.738 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 280.199, 428.28, 322.92, 465.022 ],
+        "row number" : 8,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 64,
+          "page number" : 10,
+          "bounding box" : [ 297.48, 442.003, 311.481, 451.458 ],
+          "font" : "Arial,Bold",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "7.1"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 322.92, 428.28, 541.66, 465.022 ],
+        "row number" : 8,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 65,
+          "page number" : 10,
+          "bounding box" : [ 330.38, 441.763, 539.59, 462.738 ],
+          "font" : "Arial",
+          "font size" : 10.08,
+          "text color" : "[0.0]",
+          "content" : "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203."
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 438,
+    "page number" : 11,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 32,
+      "page number" : 11,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile76.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 440,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 53.064, 745.463, 101.189, 754.918 ],
+    "heading level" : 4,
+    "font" : "Arial,Bold",
+    "font size" : 10.08,
+    "text color" : "[0.122]",
+    "content" : "Appendix"
+  }, {
+    "type" : "image",
+    "id" : 444,
+    "page number" : 11,
+    "bounding box" : [ 74.5, 464.84, 274.25, 731.0 ],
+    "source" : "inspection_images/imageFile77.png"
+  }, {
+    "type" : "image",
+    "id" : 445,
+    "page number" : 11,
+    "bounding box" : [ 312.6, 464.76, 512.25, 614.6 ],
+    "source" : "inspection_images/imageFile78.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 441,
+    "page number" : 11,
+    "bounding box" : [ 74.664, 447.558, 348.844, 459.725 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 1 Photo 2"
+  }, {
+    "type" : "image",
+    "id" : 446,
+    "page number" : 11,
+    "bounding box" : [ 74.5, 289.16, 274.15, 439.0 ],
+    "source" : "inspection_images/imageFile79.png"
+  }, {
+    "type" : "image",
+    "id" : 447,
+    "page number" : 11,
+    "bounding box" : [ 312.6, 289.16, 512.25, 439.0 ],
+    "source" : "inspection_images/imageFile80.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 442,
+    "page number" : 11,
+    "bounding box" : [ 74.664, 272.068, 348.844, 284.235 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 3 Photo 4"
+  }, {
+    "type" : "image",
+    "id" : 448,
+    "page number" : 11,
+    "bounding box" : [ 74.5, 113.66, 274.15, 263.5 ],
+    "source" : "inspection_images/imageFile81.png"
+  }, {
+    "type" : "image",
+    "id" : 449,
+    "page number" : 11,
+    "bounding box" : [ 312.6, 113.66, 512.25, 263.5 ],
+    "source" : "inspection_images/imageFile82.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 443,
+    "page number" : 11,
+    "bounding box" : [ 74.664, 96.342, 348.844, 108.509 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 5 Photo 6"
+  }, {
+    "type" : "header",
+    "id" : 450,
+    "page number" : 12,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 33,
+      "page number" : 12,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile83.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 451,
+    "page number" : 12,
+    "bounding box" : [ 74.664, 745.738, 347.164, 757.905 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 7 Photo 8"
+  }, {
+    "type" : "image",
+    "id" : 455,
+    "page number" : 12,
+    "bounding box" : [ 74.5, 586.56, 274.15, 736.4 ],
+    "source" : "inspection_images/imageFile84.png"
+  }, {
+    "type" : "image",
+    "id" : 456,
+    "page number" : 12,
+    "bounding box" : [ 312.6, 586.56, 512.25, 736.4 ],
+    "source" : "inspection_images/imageFile85.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 452,
+    "page number" : 12,
+    "bounding box" : [ 74.664, 569.528, 354.603, 581.695 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 9 Photo 10"
+  }, {
+    "type" : "image",
+    "id" : 457,
+    "page number" : 12,
+    "bounding box" : [ 74.5, 411.46, 274.15, 561.3 ],
+    "source" : "inspection_images/imageFile86.png"
+  }, {
+    "type" : "image",
+    "id" : 458,
+    "page number" : 12,
+    "bounding box" : [ 312.6, 411.46, 512.25, 561.3 ],
+    "source" : "inspection_images/imageFile87.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 453,
+    "page number" : 12,
+    "bounding box" : [ 74.664, 393.558, 354.123, 405.725 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 11 Photo 12"
+  }, {
+    "type" : "image",
+    "id" : 459,
+    "page number" : 12,
+    "bounding box" : [ 74.5, 235.4, 274.1, 385.2 ],
+    "source" : "inspection_images/imageFile88.png"
+  }, {
+    "type" : "image",
+    "id" : 460,
+    "page number" : 12,
+    "bounding box" : [ 312.6, 235.4, 512.2, 385.2 ],
+    "source" : "inspection_images/imageFile89.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 454,
+    "page number" : 12,
+    "bounding box" : [ 74.664, 218.308, 354.123, 230.475 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 13 Photo 14"
+  }, {
+    "type" : "header",
+    "id" : 461,
+    "page number" : 13,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 34,
+      "page number" : 13,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile90.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 467,
+    "page number" : 13,
+    "bounding box" : [ 74.4, 633.0, 274.35, 765.7 ],
+    "source" : "inspection_images/imageFile91.png"
+  }, {
+    "type" : "image",
+    "id" : 468,
+    "page number" : 13,
+    "bounding box" : [ 74.5, 584.5, 274.15, 734.3 ],
+    "source" : "inspection_images/imageFile92.png"
+  }, {
+    "type" : "image",
+    "id" : 465,
+    "page number" : 13,
+    "bounding box" : [ 312.6, 633.05, 512.55, 765.7 ],
+    "source" : "inspection_images/imageFile93.png"
+  }, {
+    "type" : "image",
+    "id" : 466,
+    "page number" : 13,
+    "bounding box" : [ 312.6, 584.5, 512.25, 734.3 ],
+    "source" : "inspection_images/imageFile94.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 462,
+    "page number" : 13,
+    "bounding box" : [ 74.664, 564.248, 354.123, 576.415 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 15 Photo 16"
+  }, {
+    "type" : "image",
+    "id" : 469,
+    "page number" : 13,
+    "bounding box" : [ 74.5, 404.86, 274.15, 554.7 ],
+    "source" : "inspection_images/imageFile95.png"
+  }, {
+    "type" : "image",
+    "id" : 470,
+    "page number" : 13,
+    "bounding box" : [ 312.6, 404.86, 512.25, 554.7 ],
+    "source" : "inspection_images/imageFile96.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 463,
+    "page number" : 13,
+    "bounding box" : [ 74.664, 387.798, 354.123, 399.965 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 17 Photo 18"
+  }, {
+    "type" : "image",
+    "id" : 471,
+    "page number" : 13,
+    "bounding box" : [ 74.5, 112.86, 274.15, 262.7 ],
+    "source" : "inspection_images/imageFile97.png"
+  }, {
+    "type" : "image",
+    "id" : 472,
+    "page number" : 13,
+    "bounding box" : [ 312.6, 112.9, 512.39, 379.1 ],
+    "source" : "inspection_images/imageFile98.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 464,
+    "page number" : 13,
+    "bounding box" : [ 74.664, 95.382, 354.123, 107.549 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 19 Photo 20"
+  }, {
+    "type" : "header",
+    "id" : 473,
+    "page number" : 14,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 35,
+      "page number" : 14,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile99.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 474,
+    "page number" : 14,
+    "bounding box" : [ 74.664, 745.738, 354.123, 757.905 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 21 Photo 22"
+  }, {
+    "type" : "image",
+    "id" : 477,
+    "page number" : 14,
+    "bounding box" : [ 74.5, 586.56, 274.15, 736.4 ],
+    "source" : "inspection_images/imageFile100.png"
+  }, {
+    "type" : "image",
+    "id" : 478,
+    "page number" : 14,
+    "bounding box" : [ 312.6, 586.56, 512.25, 736.4 ],
+    "source" : "inspection_images/imageFile101.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 475,
+    "page number" : 14,
+    "bounding box" : [ 74.664, 569.528, 354.123, 581.695 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 23 Photo 24"
+  }, {
+    "type" : "image",
+    "id" : 479,
+    "page number" : 14,
+    "bounding box" : [ 74.5, 294.56, 274.15, 444.4 ],
+    "source" : "inspection_images/imageFile102.png"
+  }, {
+    "type" : "image",
+    "id" : 480,
+    "page number" : 14,
+    "bounding box" : [ 312.6, 294.6, 512.39, 560.8 ],
+    "source" : "inspection_images/imageFile103.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 476,
+    "page number" : 14,
+    "bounding box" : [ 74.664, 277.348, 354.123, 289.515 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 25 Photo 26"
+  }, {
+    "type" : "header",
+    "id" : 481,
+    "page number" : 15,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 36,
+      "page number" : 15,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile104.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 486,
+    "page number" : 15,
+    "bounding box" : [ 74.4, 632.53, 275.1, 765.7 ],
+    "source" : "inspection_images/imageFile105.png"
+  }, {
+    "type" : "image",
+    "id" : 489,
+    "page number" : 15,
+    "bounding box" : [ 74.5, 468.08, 274.15, 617.92 ],
+    "source" : "inspection_images/imageFile106.png"
+  }, {
+    "type" : "image",
+    "id" : 487,
+    "page number" : 15,
+    "bounding box" : [ 312.6, 633.1, 512.55, 765.75 ],
+    "source" : "inspection_images/imageFile107.png"
+  }, {
+    "type" : "image",
+    "id" : 488,
+    "page number" : 15,
+    "bounding box" : [ 312.6, 468.15, 512.4, 734.3 ],
+    "source" : "inspection_images/imageFile108.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 482,
+    "page number" : 15,
+    "bounding box" : [ 74.664, 446.598, 354.123, 458.765 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 27 Photo 28"
+  }, {
+    "type" : "image",
+    "id" : 484,
+    "page number" : 15,
+    "bounding box" : [ 74.5, 171.79, 274.25, 437.95 ],
+    "source" : "inspection_images/imageFile109.png"
+  }, {
+    "type" : "image",
+    "id" : 485,
+    "page number" : 15,
+    "bounding box" : [ 312.6, 171.75, 512.39, 437.95 ],
+    "source" : "inspection_images/imageFile110.png"
+  }, {
+    "type" : "caption",
+    "id" : 483,
+    "page number" : 15,
+    "bounding box" : [ 74.664, 154.448, 354.123, 166.615 ],
+    "linked content id" : 484,
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 29 Photo 30"
+  }, {
+    "type" : "header",
+    "id" : 490,
+    "page number" : 16,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 37,
+      "page number" : 16,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile111.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 491,
+    "page number" : 16,
+    "bounding box" : [ 74.664, 745.738, 354.123, 757.905 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 31 Photo 32"
+  }, {
+    "type" : "image",
+    "id" : 493,
+    "page number" : 16,
+    "bounding box" : [ 74.5, 470.24, 274.25, 736.4 ],
+    "source" : "inspection_images/imageFile112.png"
+  }, {
+    "type" : "image",
+    "id" : 494,
+    "page number" : 16,
+    "bounding box" : [ 312.6, 470.16, 512.25, 620.0 ],
+    "source" : "inspection_images/imageFile113.png"
+  }, {
+    "type" : "caption",
+    "id" : 492,
+    "page number" : 16,
+    "bounding box" : [ 74.664, 453.078, 354.123, 465.245 ],
+    "linked content id" : 493,
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 33 Photo 34"
+  }, {
+    "type" : "header",
+    "id" : 495,
+    "page number" : 17,
+    "bounding box" : [ 13.35, 633.0, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 38,
+      "page number" : 17,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile114.png"
+    }, {
+      "type" : "image",
+      "id" : 39,
+      "page number" : 17,
+      "bounding box" : [ 74.4, 633.0, 274.35, 765.7 ],
+      "source" : "inspection_images/imageFile115.png"
+    }, {
+      "type" : "image",
+      "id" : 40,
+      "page number" : 17,
+      "bounding box" : [ 312.6, 633.05, 512.55, 765.7 ],
+      "source" : "inspection_images/imageFile116.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 499,
+    "page number" : 17,
+    "bounding box" : [ 74.5, 468.15, 274.3, 734.3 ],
+    "source" : "inspection_images/imageFile117.png"
+  }, {
+    "type" : "image",
+    "id" : 498,
+    "page number" : 17,
+    "bounding box" : [ 312.6, 468.15, 512.4, 734.3 ],
+    "source" : "inspection_images/imageFile118.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 496,
+    "page number" : 17,
+    "bounding box" : [ 74.664, 447.318, 354.123, 459.485 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 35 Photo 36"
+  }, {
+    "type" : "image",
+    "id" : 500,
+    "page number" : 17,
+    "bounding box" : [ 74.5, 172.39, 274.25, 438.55 ],
+    "source" : "inspection_images/imageFile119.png"
+  }, {
+    "type" : "image",
+    "id" : 501,
+    "page number" : 17,
+    "bounding box" : [ 312.6, 172.31, 512.25, 322.15 ],
+    "source" : "inspection_images/imageFile120.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 497,
+    "page number" : 17,
+    "bounding box" : [ 74.664, 154.928, 354.123, 167.095 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 37 Photo 38"
+  }, {
+    "type" : "header",
+    "id" : 502,
+    "page number" : 18,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 41,
+      "page number" : 18,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile121.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 503,
+    "page number" : 18,
+    "bounding box" : [ 74.664, 745.738, 354.123, 757.905 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 39 Photo 40"
+  }, {
+    "type" : "image",
+    "id" : 505,
+    "page number" : 18,
+    "bounding box" : [ 74.5, 470.24, 274.25, 736.4 ],
+    "source" : "inspection_images/imageFile122.png"
+  }, {
+    "type" : "image",
+    "id" : 506,
+    "page number" : 18,
+    "bounding box" : [ 312.6, 470.2, 512.38, 735.85 ],
+    "source" : "inspection_images/imageFile123.png"
+  }, {
+    "type" : "caption",
+    "id" : 504,
+    "page number" : 18,
+    "bounding box" : [ 74.664, 453.078, 354.123, 465.245 ],
+    "linked content id" : 505,
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 41 Photo 42"
+  }, {
+    "type" : "header",
+    "id" : 507,
+    "page number" : 19,
+    "bounding box" : [ 13.35, 633.0, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 42,
+      "page number" : 19,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile124.png"
+    }, {
+      "type" : "image",
+      "id" : 43,
+      "page number" : 19,
+      "bounding box" : [ 74.4, 633.0, 274.35, 765.7 ],
+      "source" : "inspection_images/imageFile125.png"
+    }, {
+      "type" : "image",
+      "id" : 44,
+      "page number" : 19,
+      "bounding box" : [ 312.6, 633.05, 512.55, 765.7 ],
+      "source" : "inspection_images/imageFile126.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 511,
+    "page number" : 19,
+    "bounding box" : [ 74.5, 468.7, 274.3, 734.3 ],
+    "source" : "inspection_images/imageFile127.png"
+  }, {
+    "type" : "image",
+    "id" : 510,
+    "page number" : 19,
+    "bounding box" : [ 312.6, 468.7, 512.35, 734.3 ],
+    "source" : "inspection_images/imageFile128.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 508,
+    "page number" : 19,
+    "bounding box" : [ 74.664, 448.038, 354.123, 460.205 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 43 Photo 44"
+  }, {
+    "type" : "image",
+    "id" : 512,
+    "page number" : 19,
+    "bounding box" : [ 74.5, 173.34, 274.25, 439.5 ],
+    "source" : "inspection_images/imageFile129.png"
+  }, {
+    "type" : "image",
+    "id" : 513,
+    "page number" : 19,
+    "bounding box" : [ 312.6, 173.3, 512.39, 439.5 ],
+    "source" : "inspection_images/imageFile130.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 509,
+    "page number" : 19,
+    "bounding box" : [ 74.664, 155.888, 354.123, 168.055 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 45 Photo 46"
+  }, {
+    "type" : "header",
+    "id" : 514,
+    "page number" : 20,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 45,
+      "page number" : 20,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile131.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 519,
+    "page number" : 20,
+    "bounding box" : [ 74.4, 633.05, 274.35, 773.55 ],
+    "source" : "inspection_images/imageFile132.png"
+  }, {
+    "type" : "image",
+    "id" : 517,
+    "page number" : 20,
+    "bounding box" : [ 312.6, 633.1, 512.55, 769.95 ],
+    "source" : "inspection_images/imageFile133.png"
+  }, {
+    "type" : "image",
+    "id" : 520,
+    "page number" : 20,
+    "bounding box" : [ 74.5, 468.2, 274.3, 734.35 ],
+    "source" : "inspection_images/imageFile134.png"
+  }, {
+    "type" : "image",
+    "id" : 518,
+    "page number" : 20,
+    "bounding box" : [ 312.6, 468.2, 512.4, 734.35 ],
+    "source" : "inspection_images/imageFile135.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 515,
+    "page number" : 20,
+    "bounding box" : [ 74.664, 448.518, 354.123, 460.685 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 47 Photo 48"
+  }, {
+    "type" : "image",
+    "id" : 521,
+    "page number" : 20,
+    "bounding box" : [ 74.5, 173.69, 274.25, 439.85 ],
+    "source" : "inspection_images/imageFile136.png"
+  }, {
+    "type" : "image",
+    "id" : 522,
+    "page number" : 20,
+    "bounding box" : [ 312.6, 173.61, 512.25, 323.45 ],
+    "source" : "inspection_images/imageFile137.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 516,
+    "page number" : 20,
+    "bounding box" : [ 74.664, 156.368, 354.123, 168.535 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 49 Photo 50"
+  }, {
+    "type" : "header",
+    "id" : 523,
+    "page number" : 21,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 46,
+      "page number" : 21,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile138.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 524,
+    "page number" : 21,
+    "bounding box" : [ 74.664, 746.698, 354.123, 758.865 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 51 Photo 52"
+  }, {
+    "type" : "image",
+    "id" : 526,
+    "page number" : 21,
+    "bounding box" : [ 74.5, 471.04, 274.25, 737.2 ],
+    "source" : "inspection_images/imageFile139.png"
+  }, {
+    "type" : "image",
+    "id" : 527,
+    "page number" : 21,
+    "bounding box" : [ 312.6, 470.96, 512.25, 620.8 ],
+    "source" : "inspection_images/imageFile140.png"
+  }, {
+    "type" : "caption",
+    "id" : 525,
+    "page number" : 21,
+    "bounding box" : [ 74.664, 453.798, 354.123, 465.965 ],
+    "linked content id" : 526,
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 53 Photo 54"
+  }, {
+    "type" : "header",
+    "id" : 528,
+    "page number" : 22,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 47,
+      "page number" : 22,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile141.png"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 533,
+    "page number" : 22,
+    "bounding box" : [ 74.4, 621.0, 274.35, 761.5 ],
+    "source" : "inspection_images/imageFile142.png"
+  }, {
+    "type" : "image",
+    "id" : 534,
+    "page number" : 22,
+    "bounding box" : [ 74.5, 456.15, 274.3, 722.3 ],
+    "source" : "inspection_images/imageFile143.png"
+  }, {
+    "type" : "image",
+    "id" : 531,
+    "page number" : 22,
+    "bounding box" : [ 312.6, 621.05, 512.55, 757.9 ],
+    "source" : "inspection_images/imageFile144.png"
+  }, {
+    "type" : "image",
+    "id" : 532,
+    "page number" : 22,
+    "bounding box" : [ 312.6, 456.15, 512.4, 722.3 ],
+    "source" : "inspection_images/imageFile145.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 529,
+    "page number" : 22,
+    "bounding box" : [ 74.664, 436.518, 354.123, 448.685 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 55 Photo 56"
+  }, {
+    "type" : "image",
+    "id" : 535,
+    "page number" : 22,
+    "bounding box" : [ 74.5, 161.64, 274.25, 427.8 ],
+    "source" : "inspection_images/imageFile146.png"
+  }, {
+    "type" : "image",
+    "id" : 536,
+    "page number" : 22,
+    "bounding box" : [ 312.6, 161.6, 512.39, 427.8 ],
+    "source" : "inspection_images/imageFile147.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 530,
+    "page number" : 22,
+    "bounding box" : [ 74.664, 144.368, 354.123, 156.535 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 57 Photo 58"
+  }, {
+    "type" : "header",
+    "id" : 537,
+    "page number" : 23,
+    "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 48,
+      "page number" : 23,
+      "bounding box" : [ 13.35, 778.4, 580.21, 838.65 ],
+      "source" : "inspection_images/imageFile148.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 538,
+    "page number" : 23,
+    "bounding box" : [ 74.664, 734.458, 354.123, 746.625 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 59 Photo 60"
+  }, {
+    "type" : "image",
+    "id" : 541,
+    "page number" : 23,
+    "bounding box" : [ 74.5, 575.26, 274.15, 725.1 ],
+    "source" : "inspection_images/imageFile149.png"
+  }, {
+    "type" : "image",
+    "id" : 542,
+    "page number" : 23,
+    "bounding box" : [ 312.6, 575.26, 512.25, 725.1 ],
+    "source" : "inspection_images/imageFile150.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 539,
+    "page number" : 23,
+    "bounding box" : [ 74.664, 558.248, 354.123, 570.415 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 61 Photo 62"
+  }, {
+    "type" : "image",
+    "id" : 543,
+    "page number" : 23,
+    "bounding box" : [ 74.5, 400.16, 274.15, 550.0 ],
+    "source" : "inspection_images/imageFile151.png"
+  }, {
+    "type" : "image",
+    "id" : 544,
+    "page number" : 23,
+    "bounding box" : [ 312.6, 400.16, 512.25, 550.0 ],
+    "source" : "inspection_images/imageFile152.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 540,
+    "page number" : 23,
+    "bounding box" : [ 74.664, 382.278, 354.123, 394.445 ],
+    "font" : "Tahoma",
+    "font size" : 10.08,
+    "text color" : "[0.341, 0.118, 0.259]",
+    "content" : "Photo 63 Photo 64"
+  } ]
+}

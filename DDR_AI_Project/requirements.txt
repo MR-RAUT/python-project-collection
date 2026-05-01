@@ -1,0 +1,8 @@
+opendataloader-pdf
+google-generativeai
+reportlab
+python-dotenv
+pillow
+markdown
+jinja2 
+weasyprint

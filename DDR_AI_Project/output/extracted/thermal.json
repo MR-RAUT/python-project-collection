@@ -1,0 +1,4499 @@
+{
+  "file name" : "thermal.pdf",
+  "number of pages" : 30,
+  "author" : "",
+  "title" : "",
+  "creation date" : "D:20220927181245Z",
+  "modification date" : null,
+  "kids" : [ {
+    "type" : "header",
+    "id" : 139,
+    "page number" : 1,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 91,
+      "page number" : 1,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 1,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02380X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 140,
+    "page number" : 1,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 1,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "28.8 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 1,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "23.4 °C"
+  }, {
+    "type" : "heading",
+    "id" : 146,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 147,
+    "page number" : 1,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 1,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile2.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 1,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 28.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 1,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile3.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 1,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 23.4 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 1,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile4.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 1,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 1,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile5.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 1,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 144,
+    "page number" : 1,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile6.png"
+  }, {
+    "type" : "footer",
+    "id" : 148,
+    "page number" : 1,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 61,
+      "page number" : 1,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 149,
+    "page number" : 2,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 92,
+      "page number" : 2,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 2,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02386X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 150,
+    "page number" : 2,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile7.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 2,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "27.4 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 2,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "22.4 °C"
+  }, {
+    "type" : "heading",
+    "id" : 156,
+    "level" : "Doctitle",
+    "page number" : 2,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 157,
+    "page number" : 2,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 2,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile8.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 2,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27.4 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 2,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile9.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 2,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22.4 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 2,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile10.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 2,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 2,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile11.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 2,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 154,
+    "page number" : 2,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile12.png"
+  }, {
+    "type" : "footer",
+    "id" : 158,
+    "page number" : 2,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 62,
+      "page number" : 2,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 159,
+    "page number" : 3,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 93,
+      "page number" : 3,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 3,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02395X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 160,
+    "page number" : 3,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile13.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 161,
+    "page number" : 3,
+    "bounding box" : [ 340.0, 497.642, 363.9, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "27 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 3,
+    "bounding box" : [ 340.0, 292.642, 363.9, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "22 °C"
+  }, {
+    "type" : "heading",
+    "id" : 166,
+    "level" : "Doctitle",
+    "page number" : 3,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 167,
+    "page number" : 3,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 3,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile14.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 3,
+      "bounding box" : [ 460.0, 448.642, 685.9, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 3,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile15.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 3,
+      "bounding box" : [ 460.0, 418.642, 685.9, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 3,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile16.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 3,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 3,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile17.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 3,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 164,
+    "page number" : 3,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile18.png"
+  }, {
+    "type" : "footer",
+    "id" : 168,
+    "page number" : 3,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 63,
+      "page number" : 3,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 169,
+    "page number" : 4,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 94,
+      "page number" : 4,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 4,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02402X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 170,
+    "page number" : 4,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile19.png"
+  }, {
+    "type" : "list",
+    "id" : 171,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 191,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.7 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 172,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 192,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "20.7 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 176,
+    "level" : "Doctitle",
+    "page number" : 4,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 177,
+    "page number" : 4,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 4,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile20.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 4,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.7 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 4,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile21.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 4,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.7 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 4,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile22.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 4,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 4,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile23.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 4,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 174,
+    "page number" : 4,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile24.png"
+  }, {
+    "type" : "footer",
+    "id" : 178,
+    "page number" : 4,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 64,
+      "page number" : 4,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 179,
+    "page number" : 5,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 95,
+      "page number" : 5,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 5,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02403X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 180,
+    "page number" : 5,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile25.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 181,
+    "page number" : 5,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.5 °C"
+  }, {
+    "type" : "list",
+    "id" : 182,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 202,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "20.5 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 186,
+    "level" : "Doctitle",
+    "page number" : 5,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 187,
+    "page number" : 5,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 5,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile26.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 5,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 5,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile27.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 5,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 5,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile28.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 5,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 5,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile29.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 5,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 184,
+    "page number" : 5,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile30.png"
+  }, {
+    "type" : "footer",
+    "id" : 188,
+    "page number" : 5,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 65,
+      "page number" : 5,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 189,
+    "page number" : 6,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 96,
+      "page number" : 6,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 6,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02404X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 190,
+    "page number" : 6,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile31.png"
+  }, {
+    "type" : "list",
+    "id" : 191,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 171,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.8 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 192,
+    "level" : "2",
+    "page number" : 6,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 172,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "20.8 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 196,
+    "level" : "Doctitle",
+    "page number" : 6,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 197,
+    "page number" : 6,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 6,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile32.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 6,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 6,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile33.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 6,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 6,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile34.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 6,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 6,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile35.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 6,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 194,
+    "page number" : 6,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile36.png"
+  }, {
+    "type" : "footer",
+    "id" : 198,
+    "page number" : 6,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 66,
+      "page number" : 6,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 199,
+    "page number" : 7,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 97,
+      "page number" : 7,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 7,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02405X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 200,
+    "page number" : 7,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile37.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 7,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26.2 °C"
+  }, {
+    "type" : "list",
+    "id" : 202,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 182,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "21.2 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 206,
+    "level" : "Doctitle",
+    "page number" : 7,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 207,
+    "page number" : 7,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 7,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile38.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 7,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 7,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile39.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 7,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 7,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile40.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 7,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 7,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile41.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 7,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 204,
+    "page number" : 7,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile42.png"
+  }, {
+    "type" : "footer",
+    "id" : 208,
+    "page number" : 7,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 67,
+      "page number" : 7,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 209,
+    "page number" : 8,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 98,
+      "page number" : 8,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 8,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02406X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 210,
+    "page number" : 8,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile43.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 8,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26.5 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 8,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.5 °C"
+  }, {
+    "type" : "heading",
+    "id" : 216,
+    "level" : "Doctitle",
+    "page number" : 8,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 217,
+    "page number" : 8,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 8,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile44.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 8,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 8,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile45.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 8,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 8,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile46.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 8,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 8,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile47.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 8,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 214,
+    "page number" : 8,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile48.png"
+  }, {
+    "type" : "footer",
+    "id" : 218,
+    "page number" : 8,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 68,
+      "page number" : 8,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 219,
+    "page number" : 9,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 99,
+      "page number" : 9,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 9,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02392X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 100,
+      "page number" : 9,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.8 °C"
+    }, {
+      "type" : "heading",
+      "id" : 101,
+      "page number" : 9,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 220,
+    "page number" : 9,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile49.png"
+  }, {
+    "type" : "text block",
+    "id" : 225,
+    "page number" : 9,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 9,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile50.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 9,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 9,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile51.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 9,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 9,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile52.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 9,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 9,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile53.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 9,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 221,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.8 °C"
+  }, {
+    "type" : "image",
+    "id" : 223,
+    "page number" : 9,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile54.png"
+  }, {
+    "type" : "footer",
+    "id" : 226,
+    "page number" : 9,
+    "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 69,
+      "page number" : 9,
+      "bounding box" : [ 812.0, 3.462, 820.25, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 227,
+    "page number" : 10,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 102,
+      "page number" : 10,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 10,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02393X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 103,
+      "page number" : 10,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.9 °C"
+    }, {
+      "type" : "heading",
+      "id" : 104,
+      "page number" : 10,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 228,
+    "page number" : 10,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile55.png"
+  }, {
+    "type" : "text block",
+    "id" : 233,
+    "page number" : 10,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 10,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile56.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 10,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 10,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile57.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 10,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 10,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile58.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 10,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 10,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile59.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 10,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 229,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.9 °C"
+  }, {
+    "type" : "image",
+    "id" : 231,
+    "page number" : 10,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile60.png"
+  }, {
+    "type" : "footer",
+    "id" : 234,
+    "page number" : 10,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 70,
+      "page number" : 10,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 235,
+    "page number" : 11,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 105,
+      "page number" : 11,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 11,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02394X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 236,
+    "page number" : 11,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile61.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 237,
+    "page number" : 11,
+    "bounding box" : [ 340.0, 497.642, 363.9, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 238,
+    "page number" : 11,
+    "bounding box" : [ 340.0, 292.642, 363.9, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21 °C"
+  }, {
+    "type" : "heading",
+    "id" : 242,
+    "level" : "Doctitle",
+    "page number" : 11,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 243,
+    "page number" : 11,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 11,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile62.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 11,
+      "bounding box" : [ 460.0, 448.642, 685.9, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 11,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile63.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 11,
+      "bounding box" : [ 460.0, 418.642, 685.9, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 11,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile64.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 11,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 11,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile65.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 11,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 240,
+    "page number" : 11,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile66.png"
+  }, {
+    "type" : "footer",
+    "id" : 244,
+    "page number" : 11,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 71,
+      "page number" : 11,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 245,
+    "page number" : 12,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 106,
+      "page number" : 12,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 12,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02396X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 246,
+    "page number" : 12,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile67.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "page number" : 12,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26.1 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 248,
+    "page number" : 12,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.1 °C"
+  }, {
+    "type" : "heading",
+    "id" : 252,
+    "level" : "Doctitle",
+    "page number" : 12,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 253,
+    "page number" : 12,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 12,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile68.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 12,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.1 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 12,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile69.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 12,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.1 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 12,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile70.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 12,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 12,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile71.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 12,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 250,
+    "page number" : 12,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile72.png"
+  }, {
+    "type" : "footer",
+    "id" : 254,
+    "page number" : 12,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 72,
+      "page number" : 12,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 255,
+    "page number" : 13,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 107,
+      "page number" : 13,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 13,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02397X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 108,
+      "page number" : 13,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "26.3 °C"
+    }, {
+      "type" : "heading",
+      "id" : 109,
+      "page number" : 13,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 256,
+    "page number" : 13,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile73.png"
+  }, {
+    "type" : "text block",
+    "id" : 261,
+    "page number" : 13,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 13,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile74.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 13,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 13,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile75.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 13,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 13,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile76.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 13,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 13,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile77.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 13,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 257,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.3 °C"
+  }, {
+    "type" : "image",
+    "id" : 259,
+    "page number" : 13,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile78.png"
+  }, {
+    "type" : "footer",
+    "id" : 262,
+    "page number" : 13,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 73,
+      "page number" : 13,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 263,
+    "page number" : 14,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 110,
+      "page number" : 14,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 14,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02398X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 264,
+    "page number" : 14,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile79.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 265,
+    "page number" : 14,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.6 °C"
+  }, {
+    "type" : "list",
+    "id" : 266,
+    "level" : "3",
+    "page number" : 14,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "20.6 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 270,
+    "level" : "Doctitle",
+    "page number" : 14,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 271,
+    "page number" : 14,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 14,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile80.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 14,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 14,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile81.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 14,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 14,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile82.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 14,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 14,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile83.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 14,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 268,
+    "page number" : 14,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile84.png"
+  }, {
+    "type" : "footer",
+    "id" : 272,
+    "page number" : 14,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 74,
+      "page number" : 14,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 273,
+    "page number" : 15,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 111,
+      "page number" : 15,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 15,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02399X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 112,
+      "page number" : 15,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "26.5 °C"
+    }, {
+      "type" : "heading",
+      "id" : 113,
+      "page number" : 15,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 274,
+    "page number" : 15,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile85.png"
+  }, {
+    "type" : "text block",
+    "id" : 279,
+    "page number" : 15,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 15,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile86.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 15,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 15,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile87.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 15,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 15,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile88.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 15,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 15,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile89.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 15,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 275,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.5 °C"
+  }, {
+    "type" : "image",
+    "id" : 277,
+    "page number" : 15,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile90.png"
+  }, {
+    "type" : "footer",
+    "id" : 280,
+    "page number" : 15,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 75,
+      "page number" : 15,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 281,
+    "page number" : 16,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 114,
+      "page number" : 16,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 16,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02400X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 282,
+    "page number" : 16,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile91.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 283,
+    "page number" : 16,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.2 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 284,
+    "page number" : 16,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.2 °C"
+  }, {
+    "type" : "heading",
+    "id" : 288,
+    "level" : "Doctitle",
+    "page number" : 16,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 289,
+    "page number" : 16,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 16,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile92.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 16,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 16,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile93.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 16,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 16,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile94.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 16,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 16,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile95.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 16,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 286,
+    "page number" : 16,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile96.png"
+  }, {
+    "type" : "footer",
+    "id" : 290,
+    "page number" : 16,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 76,
+      "page number" : 16,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 291,
+    "page number" : 17,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 115,
+      "page number" : 17,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 17,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02401X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 292,
+    "page number" : 17,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile97.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 293,
+    "page number" : 17,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.6 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 294,
+    "page number" : 17,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.6 °C"
+  }, {
+    "type" : "heading",
+    "id" : 298,
+    "level" : "Doctitle",
+    "page number" : 17,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 299,
+    "page number" : 17,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 17,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile98.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 17,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 17,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile99.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 17,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 17,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile100.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 17,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 17,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile101.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 17,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 296,
+    "page number" : 17,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile102.png"
+  }, {
+    "type" : "footer",
+    "id" : 300,
+    "page number" : 17,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 77,
+      "page number" : 17,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 301,
+    "page number" : 18,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 116,
+      "page number" : 18,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 18,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02381X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 302,
+    "page number" : 18,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile103.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 303,
+    "page number" : 18,
+    "bounding box" : [ 340.0, 497.642, 363.9, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "27 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 304,
+    "page number" : 18,
+    "bounding box" : [ 340.0, 292.642, 363.9, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "22 °C"
+  }, {
+    "type" : "heading",
+    "id" : 308,
+    "level" : "Doctitle",
+    "page number" : 18,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 309,
+    "page number" : 18,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 18,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile104.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 18,
+      "bounding box" : [ 460.0, 448.642, 685.9, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 18,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile105.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 18,
+      "bounding box" : [ 460.0, 418.642, 685.9, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 18,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile106.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 18,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 18,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile107.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 18,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 306,
+    "page number" : 18,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile108.png"
+  }, {
+    "type" : "footer",
+    "id" : 310,
+    "page number" : 18,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 78,
+      "page number" : 18,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 311,
+    "page number" : 19,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 117,
+      "page number" : 19,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 19,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02382X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 312,
+    "page number" : 19,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile109.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 19,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26.7 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 314,
+    "page number" : 19,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.7 °C"
+  }, {
+    "type" : "heading",
+    "id" : 318,
+    "level" : "Doctitle",
+    "page number" : 19,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 319,
+    "page number" : 19,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 19,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile110.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 19,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.7 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 19,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile111.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 19,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.7 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 19,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile112.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 19,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 19,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile113.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 19,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 316,
+    "page number" : 19,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile114.png"
+  }, {
+    "type" : "footer",
+    "id" : 320,
+    "page number" : 19,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 79,
+      "page number" : 19,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 321,
+    "page number" : 20,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 118,
+      "page number" : 20,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 20,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02383X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 322,
+    "page number" : 20,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile115.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 323,
+    "page number" : 20,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "26.5 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 324,
+    "page number" : 20,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.5 °C"
+  }, {
+    "type" : "heading",
+    "id" : 328,
+    "level" : "Doctitle",
+    "page number" : 20,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 329,
+    "page number" : 20,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 20,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile116.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 20,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 20,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile117.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 20,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.5 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 20,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile118.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 20,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 20,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile119.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 20,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 326,
+    "page number" : 20,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile120.png"
+  }, {
+    "type" : "footer",
+    "id" : 330,
+    "page number" : 20,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 80,
+      "page number" : 20,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 331,
+    "page number" : 21,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 119,
+      "page number" : 21,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 21,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02384X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 120,
+      "page number" : 21,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "27.3 °C"
+    }, {
+      "type" : "heading",
+      "id" : 121,
+      "page number" : 21,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 332,
+    "page number" : 21,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile121.png"
+  }, {
+    "type" : "text block",
+    "id" : 337,
+    "page number" : 21,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 21,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile122.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 21,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 21,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile123.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 21,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 21,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile124.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 21,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 21,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile125.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 21,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 333,
+    "level" : "Subtitle",
+    "page number" : 21,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "22.3 °C"
+  }, {
+    "type" : "image",
+    "id" : 335,
+    "page number" : 21,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile126.png"
+  }, {
+    "type" : "footer",
+    "id" : 338,
+    "page number" : 21,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 81,
+      "page number" : 21,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 339,
+    "page number" : 22,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 122,
+      "page number" : 22,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 22,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02385X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 123,
+      "page number" : 22,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "27.3 °C"
+    }, {
+      "type" : "heading",
+      "id" : 124,
+      "page number" : 22,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 340,
+    "page number" : 22,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile127.png"
+  }, {
+    "type" : "text block",
+    "id" : 345,
+    "page number" : 22,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 22,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile128.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 22,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 22,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile129.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 22,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22.3 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 22,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile130.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 22,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 22,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile131.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 22,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 341,
+    "level" : "Subtitle",
+    "page number" : 22,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "22.3 °C"
+  }, {
+    "type" : "image",
+    "id" : 343,
+    "page number" : 22,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile132.png"
+  }, {
+    "type" : "footer",
+    "id" : 346,
+    "page number" : 22,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 82,
+      "page number" : 22,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 347,
+    "page number" : 23,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 125,
+      "page number" : 23,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 23,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02387X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 348,
+    "page number" : 23,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile133.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 349,
+    "page number" : 23,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.2 °C"
+  }, {
+    "type" : "list",
+    "id" : 350,
+    "level" : "3",
+    "page number" : 23,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 404,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 23,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "20.2 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 354,
+    "level" : "Doctitle",
+    "page number" : 23,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 355,
+    "page number" : 23,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 23,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile134.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 23,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 23,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile135.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 23,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.2 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 23,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile136.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 23,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 23,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile137.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 23,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 352,
+    "page number" : 23,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile138.png"
+  }, {
+    "type" : "footer",
+    "id" : 356,
+    "page number" : 23,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 83,
+      "page number" : 23,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 357,
+    "page number" : 24,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 126,
+      "page number" : 24,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 24,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02388X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 358,
+    "page number" : 24,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile139.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 359,
+    "page number" : 24,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "25.1 °C"
+  }, {
+    "type" : "paragraph",
+    "id" : 360,
+    "page number" : 24,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.1 °C"
+  }, {
+    "type" : "heading",
+    "id" : 364,
+    "level" : "Doctitle",
+    "page number" : 24,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 365,
+    "page number" : 24,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 24,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile140.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 24,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.1 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 24,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile141.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 24,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.1 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 24,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile142.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 24,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 24,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile143.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 24,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 362,
+    "page number" : 24,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile144.png"
+  }, {
+    "type" : "footer",
+    "id" : 366,
+    "page number" : 24,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 84,
+      "page number" : 24,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 367,
+    "page number" : 25,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 127,
+      "page number" : 25,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 25,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02389X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 128,
+      "page number" : 25,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.9 °C"
+    }, {
+      "type" : "heading",
+      "id" : 129,
+      "page number" : 25,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 368,
+    "page number" : 25,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile145.png"
+  }, {
+    "type" : "text block",
+    "id" : 373,
+    "page number" : 25,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 25,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile146.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 25,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 25,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile147.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 25,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 25,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile148.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 25,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 25,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile149.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 25,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 369,
+    "level" : "Subtitle",
+    "page number" : 25,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.9 °C"
+  }, {
+    "type" : "image",
+    "id" : 371,
+    "page number" : 25,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile150.png"
+  }, {
+    "type" : "footer",
+    "id" : 374,
+    "page number" : 25,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 85,
+      "page number" : 25,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 375,
+    "page number" : 26,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 130,
+      "page number" : 26,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 26,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02390X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 131,
+      "page number" : 26,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "26.9 °C"
+    }, {
+      "type" : "heading",
+      "id" : 132,
+      "page number" : 26,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 376,
+    "page number" : 26,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile151.png"
+  }, {
+    "type" : "text block",
+    "id" : 381,
+    "page number" : 26,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 26,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile152.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 26,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 26,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile153.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 26,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 26,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile154.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 26,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 26,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile155.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 26,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 377,
+    "level" : "Subtitle",
+    "page number" : 26,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.9 °C"
+  }, {
+    "type" : "image",
+    "id" : 379,
+    "page number" : 26,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile156.png"
+  }, {
+    "type" : "footer",
+    "id" : 382,
+    "page number" : 26,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 86,
+      "page number" : 26,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 383,
+    "page number" : 27,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 133,
+      "page number" : 27,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 27,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02391X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 384,
+    "page number" : 27,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile157.png"
+  }, {
+    "type" : "list",
+    "id" : 385,
+    "level" : "3",
+    "page number" : 27,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 403,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 27,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "25.6 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 386,
+    "page number" : 27,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "20.6 °C"
+  }, {
+    "type" : "heading",
+    "id" : 390,
+    "level" : "Doctitle",
+    "page number" : 27,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 391,
+    "page number" : 27,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 27,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile158.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 27,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 25.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 27,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile159.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 27,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 20.6 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 27,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile160.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 27,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 27,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile161.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 27,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 388,
+    "page number" : 27,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile162.png"
+  }, {
+    "type" : "footer",
+    "id" : 392,
+    "page number" : 27,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 87,
+      "page number" : 27,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 393,
+    "page number" : 28,
+    "bounding box" : [ 18.0, 481.462, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 134,
+      "page number" : 28,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 28,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02377X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    }, {
+      "type" : "paragraph",
+      "id" : 135,
+      "page number" : 28,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "26.9 °C"
+    }, {
+      "type" : "heading",
+      "id" : 136,
+      "page number" : 28,
+      "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27/09/22"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 394,
+    "page number" : 28,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile163.png"
+  }, {
+    "type" : "text block",
+    "id" : 399,
+    "page number" : 28,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 28,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile164.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 28,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 28,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile165.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 28,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.9 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 28,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile166.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 28,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 28,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile167.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 28,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 395,
+    "level" : "Subtitle",
+    "page number" : 28,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "heading level" : 2,
+    "font" : "DroidSans",
+    "font size" : 10.0,
+    "text color" : "[0.0]",
+    "content" : "21.9 °C"
+  }, {
+    "type" : "image",
+    "id" : 397,
+    "page number" : 28,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile168.png"
+  }, {
+    "type" : "footer",
+    "id" : 400,
+    "page number" : 28,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 88,
+      "page number" : 28,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 401,
+    "page number" : 29,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 137,
+      "page number" : 29,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 29,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02378X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 402,
+    "page number" : 29,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile169.png"
+  }, {
+    "type" : "list",
+    "id" : 403,
+    "level" : "3",
+    "page number" : 29,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 385,
+    "next list id" : 413,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 29,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "26.4 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 404,
+    "level" : "3",
+    "page number" : 29,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 350,
+    "next list id" : 414,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 29,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "21.4 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 408,
+    "level" : "Doctitle",
+    "page number" : 29,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 409,
+    "page number" : 29,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 29,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile170.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 29,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 26.4 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 29,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile171.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 29,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 21.4 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 29,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile172.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 29,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 29,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile173.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 29,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 406,
+    "page number" : 29,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile174.png"
+  }, {
+    "type" : "footer",
+    "id" : 410,
+    "page number" : 29,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 89,
+      "page number" : 29,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 411,
+    "page number" : 30,
+    "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+    "kids" : [ {
+      "type" : "text block",
+      "id" : 138,
+      "page number" : 30,
+      "bounding box" : [ 18.0, 536.0, 822.0, 575.0 ],
+      "kids" : [ {
+        "type" : "heading",
+        "id" : 9,
+        "page number" : 30,
+        "bounding box" : [ 30.0, 546.462, 799.845, 563.923 ],
+        "heading level" : 1,
+        "font" : "DroidSans",
+        "font size" : 15.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "Thermal image : RB02379X.JPG Device : GTC 400 C Professional Serial Number : 02700034772"
+      } ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 412,
+    "page number" : 30,
+    "bounding box" : [ 20.0, 290.0, 320.0, 515.0 ],
+    "source" : "thermal_images/imageFile175.png"
+  }, {
+    "type" : "list",
+    "id" : 413,
+    "level" : "3",
+    "page number" : 30,
+    "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 403,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 30,
+      "bounding box" : [ 340.0, 497.642, 372.08, 509.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "27.8 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 414,
+    "level" : "3",
+    "page number" : 30,
+    "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 404,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 30,
+      "bounding box" : [ 340.0, 292.642, 372.08, 304.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0]",
+      "content" : "22.8 °C",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 418,
+    "level" : "Doctitle",
+    "page number" : 30,
+    "bounding box" : [ 722.0, 481.462, 782.69, 498.923 ],
+    "heading level" : 1,
+    "font" : "DroidSans",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "27/09/22"
+  }, {
+    "type" : "text block",
+    "id" : 419,
+    "page number" : 30,
+    "bounding box" : [ 419.0, 338.0, 822.0, 477.0 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 30,
+      "bounding box" : [ 428.0, 441.58, 453.92, 467.5 ],
+      "source" : "thermal_images/imageFile176.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 30,
+      "bounding box" : [ 460.0, 448.642, 694.08, 460.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Hotspot : 27.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 30,
+      "bounding box" : [ 428.0, 411.58, 453.92, 437.5 ],
+      "source" : "thermal_images/imageFile177.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 30,
+      "bounding box" : [ 460.0, 418.642, 694.08, 430.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Coldspot : 22.8 °C"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 30,
+      "bounding box" : [ 430.0, 380.08, 455.92, 406.0 ],
+      "source" : "thermal_images/imageFile178.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 30,
+      "bounding box" : [ 460.0, 388.642, 681.18, 400.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Emissivity : 0.94"
+    }, {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 30,
+      "bounding box" : [ 430.0, 350.08, 455.92, 376.0 ],
+      "source" : "thermal_images/imageFile179.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 30,
+      "bounding box" : [ 460.0, 358.642, 685.9, 370.282 ],
+      "font" : "DroidSans",
+      "font size" : 10.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Reflected temperature : 23 °C"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 416,
+    "page number" : 30,
+    "bounding box" : [ 20.0, 40.0, 319.261, 265.0 ],
+    "source" : "thermal_images/imageFile180.png"
+  }, {
+    "type" : "footer",
+    "id" : 420,
+    "page number" : 30,
+    "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 90,
+      "page number" : 30,
+      "bounding box" : [ 812.0, 3.462, 828.5, 20.923 ],
+      "heading level" : 1,
+      "font" : "DroidSans",
+      "font size" : 15.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30"
+    } ]
+  } ]
+}
